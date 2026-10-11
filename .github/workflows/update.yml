@@ -1,0 +1,31 @@
+name: Update NFL calendars
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily, ~7am ET
+    - cron: "0 9 * * 1,2"  # Mon/Tue after Sunday/Monday night games
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build calendars
+        run: python build_calendars.py
+      - name: Keep schedule alive (GitHub pauses cron after 60 days without commits)
+        run: |
+          month=$(date -u +%Y-%m)
+          if [ "$(cat .keepalive 2>/dev/null)" != "$month" ]; then echo "$month" > .keepalive; fi
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calendars .keepalive
+          git diff --cached --quiet || (git commit -m "Update calendars $(date -u +%F)" && git push)
