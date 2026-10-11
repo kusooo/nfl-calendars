@@ -15,7 +15,7 @@ DTEND:20250905T035000Z
 SUMMARY:DAL 20 @ PHI 24 (Final)
 DESCRIPTION:Final: Eagles 24\, Cowboys 20 (W)\nEagles record: 1-0\nNext: @ 
  Kansas City Chiefs\, Sun Sep 14\, 4:25 PM ET (Fox)\n\nDallas Cowboys at Ph
- iladelphia Eagles\nWeek 1\nTV: NBC\, Peacock
+ iladelphia Eagles\nWeek 1\nDivision game (NFC East)\nTV: NBC\, Peacock
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ DTEND:20251010T034500Z
 SUMMARY:PHI 17 @ NYG 34 (Final)
 DESCRIPTION:Final: Eagles 17\, Giants 34 (L)\nEagles record: 4-2\nNext: @ M
  innesota Vikings\, Sun Oct 19\, 1:00 PM ET (Fox)\n\nPhiladelphia Eagles at
-  New York Giants\nWeek 6\nTV: Prime Video
+  New York Giants\nWeek 6\nDivision game (NFC East)\nTV: Prime Video
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +92,8 @@ DTEND:20251026T203000Z
 SUMMARY:NYG 20 @ PHI 38 (Final)
 DESCRIPTION:Final: Eagles 38\, Giants 20 (W)\nEagles record: 6-2\nNext: Bye
   week\, then @ Green Bay Packers\, Mon Nov 10\, 8:15 PM ET (ABC\, ESPN)\n\
- nNew York Giants at Philadelphia Eagles\nWeek 8\nTV: Fox
+ nNew York Giants at Philadelphia Eagles\nWeek 8\nDivision game (NFC East)\
+ nTV: Fox
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +134,7 @@ DTEND:20251124T005500Z
 SUMMARY:PHI 21 @ DAL 24 (Final)
 DESCRIPTION:Final: Eagles 21\, Cowboys 24 (L)\nEagles record: 8-3\nNext: vs
   Chicago Bears\, Fri Nov 28\, 3:00 PM ET (Prime Video)\n\nPhiladelphia Eag
- les at Dallas Cowboys\nWeek 12\nTV: Fox
+ les at Dallas Cowboys\nWeek 12\nDivision game (NFC East)\nTV: Fox
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -177,7 +178,7 @@ DTEND:20251221T013000Z
 SUMMARY:PHI 29 @ WSH 18 (Final)
 DESCRIPTION:Final: Eagles 29\, Commanders 18 (W)\nEagles record: 10-5\nNext
  : @ Buffalo Bills\, Sun Dec 28\, 4:25 PM ET (Fox)\n\nPhiladelphia Eagles a
- t Washington Commanders\nWeek 16\nTV: Fox
+ t Washington Commanders\nWeek 16\nDivision game (NFC East)\nTV: Fox
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -199,7 +200,7 @@ DTEND:20260105T005500Z
 SUMMARY:WSH 24 @ PHI 17 (Final)
 DESCRIPTION:Final: Eagles 17\, Commanders 24 (L)\nEagles record: 11-6\nNext
  : vs San Francisco 49ers\, Sun Jan 11\, 4:30 PM ET (Fox)\n\nWashington Com
- manders at Philadelphia Eagles\nWeek 18\nTV: CBS
+ manders at Philadelphia Eagles\nWeek 18\nDivision game (NFC East)\nTV: CBS
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -220,7 +221,7 @@ DTEND:20260913T235500Z
 SUMMARY:WSH 22 @ PHI 24 (Final)
 DESCRIPTION:Final: Eagles 24\, Commanders 22 (W)\nEagles record: 1-0\nNext:
   @ Tennessee Titans\, Sun Sep 20\, 1:00 PM ET (Fox)\n\nWashington Commande
- rs at Philadelphia Eagles\nWeek 1\nTV: Fox
+ rs at Philadelphia Eagles\nWeek 1\nDivision game (NFC East)\nTV: Fox
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -261,9 +262,9 @@ UID:espn-401872981@nfl-calendars
 DTSTAMP:20261011T133000Z
 DTSTART:20261011T133000Z
 DTEND:20261011T170000Z
-SUMMARY:PHI (2-2) @ JAX (3-1) | JAX -7.5\, O/U 41.5
+SUMMARY:PHI @ JAX
 DESCRIPTION:Philadelphia Eagles at Jacksonville Jaguars\nWeek 5\nNFL London
-  Games\nTV: NFL Net\nLine: JAX -7.5\, O/U 41.5
+  Games\nTV: NFL Net\nLine: JAX -7.5\, O/U 41.5\nRecords: PHI 2-2\, JAX 3-1
 LOCATION:Tottenham Hotspur Stadium\, London\, England
 END:VEVENT
 BEGIN:VEVENT
@@ -271,9 +272,9 @@ UID:espn-401872998@nfl-calendars
 DTSTAMP:20261018T170000Z
 DTSTART:20261018T170000Z
 DTEND:20261018T203000Z
-SUMMARY:CAR (2-2) @ PHI (2-2) | PHI -2.5\, O/U 43.5
+SUMMARY:CAR @ PHI
 DESCRIPTION:Carolina Panthers at Philadelphia Eagles\nWeek 6\nTV: CBS\nLine
- : PHI -2.5\, O/U 43.5
+ : PHI -2.5\, O/U 43.5\nRecords: CAR 2-2\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -281,9 +282,9 @@ UID:espn-401873009@nfl-calendars
 DTSTAMP:20261027T001500Z
 DTSTART:20261027T001500Z
 DTEND:20261027T034500Z
-SUMMARY:DAL (2-3) @ PHI (2-2)
-DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nTV: ESPN\, ABC\,
-  Disney+
+SUMMARY:DAL @ PHI
+DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nDivision game (N
+ FC East)\nTV: ESPN\, ABC\, Disney+\nRecords: DAL 2-3\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -291,8 +292,9 @@ UID:espn-401873035@nfl-calendars
 DTSTAMP:20261102T012000Z
 DTSTART:20261102T012000Z
 DTEND:20261102T045000Z
-SUMMARY:PHI (2-2) @ WSH (1-3)
-DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nTV: NBC
+SUMMARY:PHI @ WSH
+DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nDivision 
+ game (NFC East)\nTV: NBC\nRecords: PHI 2-2\, WSH 1-3
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -300,8 +302,9 @@ UID:espn-401873044@nfl-calendars
 DTSTAMP:20261108T180000Z
 DTSTART:20261108T180000Z
 DTEND:20261108T213000Z
-SUMMARY:NYG (3-1) @ PHI (2-2)
-DESCRIPTION:New York Giants at Philadelphia Eagles\nWeek 9\nTV: Fox
+SUMMARY:NYG @ PHI
+DESCRIPTION:New York Giants at Philadelphia Eagles\nWeek 9\nDivision game (
+ NFC East)\nTV: Fox\nRecords: NYG 3-1\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -317,8 +320,9 @@ UID:espn-401873076@nfl-calendars
 DTSTAMP:20261122T212500Z
 DTSTART:20261122T212500Z
 DTEND:20261123T005500Z
-SUMMARY:PIT (2-2) @ PHI (2-2)
-DESCRIPTION:Pittsburgh Steelers at Philadelphia Eagles\nWeek 11\nTV: CBS
+SUMMARY:PIT @ PHI
+DESCRIPTION:Pittsburgh Steelers at Philadelphia Eagles\nWeek 11\nRivalry: B
+ attle of Pennsylvania\nTV: CBS\nRecords: PIT 2-2\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -326,8 +330,9 @@ UID:espn-401873080@nfl-calendars
 DTSTAMP:20261126T213000Z
 DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
-SUMMARY:PHI (2-2) @ DAL (2-3)
-DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nTV: Fox
+SUMMARY:PHI @ DAL
+DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nDivision game (
+ NFC East)\nTV: Fox\nRecords: PHI 2-2\, DAL 2-3
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -335,8 +340,9 @@ UID:espn-401873104@nfl-calendars
 DTSTAMP:20261206T210500Z
 DTSTART:20261206T210500Z
 DTEND:20261207T003500Z
-SUMMARY:PHI (2-2) @ ARI (1-3)
-DESCRIPTION:Philadelphia Eagles at Arizona Cardinals\nWeek 13\nTV: Fox
+SUMMARY:PHI @ ARI
+DESCRIPTION:Philadelphia Eagles at Arizona Cardinals\nWeek 13\nTV: Fox\nRec
+ ords: PHI 2-2\, ARI 1-3
 LOCATION:State Farm Stadium\, Glendale\, AZ
 END:VEVENT
 BEGIN:VEVENT
@@ -344,8 +350,9 @@ UID:espn-401873114@nfl-calendars
 DTSTAMP:20261213T180000Z
 DTSTART:20261213T180000Z
 DTEND:20261213T213000Z
-SUMMARY:IND (2-2) @ PHI (2-2)
-DESCRIPTION:Indianapolis Colts at Philadelphia Eagles\nWeek 14\nTV: Fox
+SUMMARY:IND @ PHI
+DESCRIPTION:Indianapolis Colts at Philadelphia Eagles\nWeek 14\nTV: Fox\nRe
+ cords: IND 2-2\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -353,8 +360,9 @@ UID:espn-401873125@nfl-calendars
 DTSTAMP:20261219T220000Z
 DTSTART:20261219T220000Z
 DTEND:20261220T013000Z
-SUMMARY:SEA (3-1) @ PHI (2-2)
-DESCRIPTION:Seattle Seahawks at Philadelphia Eagles\nWeek 15\nTV: Fox
+SUMMARY:SEA @ PHI
+DESCRIPTION:Seattle Seahawks at Philadelphia Eagles\nWeek 15\nTV: Fox\nReco
+ rds: SEA 3-1\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -362,8 +370,9 @@ UID:espn-401873140@nfl-calendars
 DTSTAMP:20261225T011500Z
 DTSTART:20261225T011500Z
 DTEND:20261225T044500Z
-SUMMARY:HOU (0-4) @ PHI (2-2)
+SUMMARY:HOU @ PHI
 DESCRIPTION:Houston Texans at Philadelphia Eagles\nWeek 16\nTV: Prime Video
+ \nRecords: HOU 0-4\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -371,8 +380,9 @@ UID:espn-401873170@nfl-calendars
 DTSTAMP:20270104T012000Z
 DTSTART:20270104T012000Z
 DTEND:20270104T045000Z
-SUMMARY:PHI (2-2) @ SF (4-0)
-DESCRIPTION:Philadelphia Eagles at San Francisco 49ers\nWeek 17\nTV: NBC
+SUMMARY:PHI @ SF
+DESCRIPTION:Philadelphia Eagles at San Francisco 49ers\nWeek 17\nTV: NBC\nR
+ ecords: PHI 2-2\, SF 4-0
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -380,9 +390,10 @@ UID:espn-401873182@nfl-calendars
 DTSTAMP:20270110T050000Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:PHI (2-2) @ NYG (3-1) (time TBD)
+SUMMARY:PHI @ NYG (time TBD)
 DESCRIPTION:Philadelphia Eagles at New York Giants\nWeek 18\nFlex Game: 1/9
-  or 1/10\nKickoff time TBD
+  or 1/10\nDivision game (NFC East)\nRecords: PHI 2-2\, NYG 3-1\nKickoff ti
+ me TBD
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 END:VCALENDAR

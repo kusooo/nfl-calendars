@@ -13,8 +13,8 @@ DTSTAMP:20250905T002000Z
 DTSTART:20250905T002000Z
 DTEND:20250905T035000Z
 SUMMARY:DAL 20 @ PHI 24 (Final)
-DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 1\nTV: NBC\, Peacoc
- k
+DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 1\nDivision game (N
+ FC East)\nTV: NBC\, Peacock
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,8 @@ DTSTAMP:20250909T001500Z
 DTSTART:20250909T001500Z
 DTEND:20250909T034500Z
 SUMMARY:MIN 27 @ CHI 24 (Final)
-DESCRIPTION:Minnesota Vikings at Chicago Bears\nWeek 1\nTV: ABC\, ESPN
+DESCRIPTION:Minnesota Vikings at Chicago Bears\nWeek 1\nDivision game (NFC 
+ North)\nTV: ABC\, ESPN
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +70,8 @@ DTSTAMP:20250916T020000Z
 DTSTART:20250916T020000Z
 DTEND:20250916T053000Z
 SUMMARY:LAC 20 @ LV 9 (Final)
-DESCRIPTION:Los Angeles Chargers at Las Vegas Raiders\nWeek 2\nTV: ESPN
+DESCRIPTION:Los Angeles Chargers at Las Vegas Raiders\nWeek 2\nDivision gam
+ e (AFC West)\nTV: ESPN
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +80,8 @@ DTSTAMP:20250919T001500Z
 DTSTART:20250919T001500Z
 DTEND:20250919T034500Z
 SUMMARY:MIA 21 @ BUF 31 (Final)
-DESCRIPTION:Miami Dolphins at Buffalo Bills\nWeek 3\nTV: Prime Video
+DESCRIPTION:Miami Dolphins at Buffalo Bills\nWeek 3\nDivision game (AFC Eas
+ t)\nTV: Prime Video
 LOCATION:Highmark Stadium (Old)\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -105,7 +108,8 @@ DTSTAMP:20250926T001500Z
 DTSTART:20250926T001500Z
 DTEND:20250926T034500Z
 SUMMARY:SEA 23 @ ARI 20 (Final)
-DESCRIPTION:Seattle Seahawks at Arizona Cardinals\nWeek 4\nTV: Prime Video
+DESCRIPTION:Seattle Seahawks at Arizona Cardinals\nWeek 4\nDivision game (N
+ FC West)\nTV: Prime Video
 LOCATION:State Farm Stadium\, Glendale\, AZ
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +127,8 @@ DTSTAMP:20250929T231500Z
 DTSTART:20250929T231500Z
 DTEND:20250930T024500Z
 SUMMARY:NYJ 21 @ MIA 27 (Final)
-DESCRIPTION:New York Jets at Miami Dolphins\nWeek 4\nTV: ESPN
+DESCRIPTION:New York Jets at Miami Dolphins\nWeek 4\nDivision game (AFC Eas
+ t)\nTV: ESPN
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -141,8 +146,8 @@ DTSTAMP:20251003T001500Z
 DTSTART:20251003T001500Z
 DTEND:20251003T034500Z
 SUMMARY:SF 26 @ LAR 23 (Final)
-DESCRIPTION:San Francisco 49ers at Los Angeles Rams\nWeek 5\nTV: Prime Vide
- o
+DESCRIPTION:San Francisco 49ers at Los Angeles Rams\nWeek 5\nDivision game 
+ (NFC West)\nTV: Prime Video
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -151,7 +156,8 @@ DTSTAMP:20251006T002000Z
 DTSTART:20251006T002000Z
 DTEND:20251006T035000Z
 SUMMARY:NE 23 @ BUF 20 (Final)
-DESCRIPTION:New England Patriots at Buffalo Bills\nWeek 5\nTV: NBC
+DESCRIPTION:New England Patriots at Buffalo Bills\nWeek 5\nDivision game (A
+ FC East)\nTV: NBC
 LOCATION:Highmark Stadium (Old)\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +176,8 @@ DTSTAMP:20251010T001500Z
 DTSTART:20251010T001500Z
 DTEND:20251010T034500Z
 SUMMARY:PHI 17 @ NYG 34 (Final)
-DESCRIPTION:Philadelphia Eagles at New York Giants\nWeek 6\nTV: Prime Video
+DESCRIPTION:Philadelphia Eagles at New York Giants\nWeek 6\nDivision game (
+ NFC East)\nTV: Prime Video
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -206,8 +213,8 @@ DTSTAMP:20251017T001500Z
 DTSTART:20251017T001500Z
 DTEND:20251017T034500Z
 SUMMARY:PIT 31 @ CIN 33 (Final)
-DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 7\nTV: Prime Vi
- deo
+DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 7\nDivision gam
+ e (AFC North)\nTV: Prime Video
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -300,7 +307,8 @@ DTSTAMP:20251107T011500Z
 DTSTART:20251107T011500Z
 DTEND:20251107T044500Z
 SUMMARY:LV 7 @ DEN 10 (Final)
-DESCRIPTION:Las Vegas Raiders at Denver Broncos\nWeek 10\nTV: Prime Video
+DESCRIPTION:Las Vegas Raiders at Denver Broncos\nWeek 10\nDivision game (AF
+ C West)\nTV: Prime Video
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -329,7 +337,8 @@ DTSTAMP:20251114T011500Z
 DTSTART:20251114T011500Z
 DTEND:20251114T044500Z
 SUMMARY:NYJ 14 @ NE 27 (Final)
-DESCRIPTION:New York Jets at New England Patriots\nWeek 11\nTV: Prime Video
+DESCRIPTION:New York Jets at New England Patriots\nWeek 11\nDivision game (
+ AFC East)\nTV: Prime Video
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -385,8 +394,8 @@ DTSTAMP:20251128T012000Z
 DTSTART:20251128T012000Z
 DTEND:20251128T045000Z
 SUMMARY:CIN 32 @ BAL 14 (Final)
-DESCRIPTION:Cincinnati Bengals at Baltimore Ravens\nWeek 13\nTV: NBC\, Peac
- ock
+DESCRIPTION:Cincinnati Bengals at Baltimore Ravens\nWeek 13\nDivision game 
+ (AFC North)\nTV: NBC\, Peacock
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -443,8 +452,8 @@ DTSTAMP:20251212T011500Z
 DTSTART:20251212T011500Z
 DTEND:20251212T044500Z
 SUMMARY:ATL 29 @ TB 28 (Final)
-DESCRIPTION:Atlanta Falcons at Tampa Bay Buccaneers\nWeek 15\nTV: Prime Vid
- eo
+DESCRIPTION:Atlanta Falcons at Tampa Bay Buccaneers\nWeek 15\nDivision game
+  (NFC South)\nTV: Prime Video
 LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -471,7 +480,8 @@ DTSTAMP:20251219T011500Z
 DTSTART:20251219T011500Z
 DTEND:20251219T044500Z
 SUMMARY:LAR 37 @ SEA 38 (Final)
-DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nTV: Prime Video
+DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nDivision game (N
+ FC West)\nTV: Prime Video
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -480,7 +490,8 @@ DTSTAMP:20251221T012000Z
 DTSTART:20251221T012000Z
 DTEND:20251221T045000Z
 SUMMARY:GB 16 @ CHI 22 (Final)
-DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nTV: Fox
+DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
+  North)\nTV: Fox
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -509,7 +520,8 @@ DTSTAMP:20251225T180000Z
 DTSTART:20251225T180000Z
 DTEND:20251225T213000Z
 SUMMARY:DAL 30 @ WSH 23 (Final)
-DESCRIPTION:Dallas Cowboys at Washington Commanders\nWeek 17\nTV: Netflix
+DESCRIPTION:Dallas Cowboys at Washington Commanders\nWeek 17\nDivision game
+  (NFC East)\nTV: Netflix
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -518,7 +530,8 @@ DTSTAMP:20251225T213000Z
 DTSTART:20251225T213000Z
 DTEND:20251226T010000Z
 SUMMARY:DET 10 @ MIN 23 (Final)
-DESCRIPTION:Detroit Lions at Minnesota Vikings\nWeek 17\nTV: Netflix
+DESCRIPTION:Detroit Lions at Minnesota Vikings\nWeek 17\nDivision game (NFC
+  North)\nTV: Netflix
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -527,7 +540,8 @@ DTSTAMP:20251226T011500Z
 DTSTART:20251226T011500Z
 DTEND:20251226T044500Z
 SUMMARY:DEN 20 @ KC 13 (Final)
-DESCRIPTION:Denver Broncos at Kansas City Chiefs\nWeek 17\nTV: Prime Video
+DESCRIPTION:Denver Broncos at Kansas City Chiefs\nWeek 17\nDivision game (A
+ FC West)\nTV: Prime Video
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -564,8 +578,8 @@ DTSTAMP:20260104T010000Z
 DTSTART:20260104T010000Z
 DTEND:20260104T043000Z
 SUMMARY:SEA 13 @ SF 3 (Final)
-DESCRIPTION:Seattle Seahawks at San Francisco 49ers\nWeek 18\nTV: ABC\, ESP
- N
+DESCRIPTION:Seattle Seahawks at San Francisco 49ers\nWeek 18\nDivision game
+  (NFC West)\nTV: ABC\, ESPN
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -574,8 +588,8 @@ DTSTAMP:20260105T012000Z
 DTSTART:20260105T012000Z
 DTEND:20260105T045000Z
 SUMMARY:BAL 24 @ PIT 26 (Final)
-DESCRIPTION:Baltimore Ravens at Pittsburgh Steelers\nWeek 18\nTV: NBC\, Pea
- cock
+DESCRIPTION:Baltimore Ravens at Pittsburgh Steelers\nWeek 18\nDivision game
+  (AFC North)\nTV: NBC\, Peacock
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -593,7 +607,8 @@ DTSTAMP:20260914T002000Z
 DTSTART:20260914T002000Z
 DTEND:20260914T035000Z
 SUMMARY:DAL 20 @ NYG 28 (Final)
-DESCRIPTION:Dallas Cowboys at New York Giants\nWeek 1\nTV: NBC
+DESCRIPTION:Dallas Cowboys at New York Giants\nWeek 1\nDivision game (NFC E
+ ast)\nTV: NBC
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -602,7 +617,8 @@ DTSTAMP:20260915T001500Z
 DTSTART:20260915T001500Z
 DTEND:20260915T034500Z
 SUMMARY:DEN 10 @ KC 31 (Final)
-DESCRIPTION:Denver Broncos at Kansas City Chiefs\nWeek 1\nTV: ESPN\, ABC
+DESCRIPTION:Denver Broncos at Kansas City Chiefs\nWeek 1\nDivision game (AF
+ C West)\nTV: ESPN\, ABC
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -665,8 +681,8 @@ DTSTAMP:20261002T001500Z
 DTSTART:20261002T001500Z
 DTEND:20261002T034500Z
 SUMMARY:PIT 24 @ CLE 27 (Final)
-DESCRIPTION:Pittsburgh Steelers at Cleveland Browns\nWeek 4\nTV: Prime Vide
- o
+DESCRIPTION:Pittsburgh Steelers at Cleveland Browns\nWeek 4\nDivision game 
+ (AFC North)\nTV: Prime Video
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -684,7 +700,8 @@ DTSTAMP:20261006T001500Z
 DTSTART:20261006T001500Z
 DTEND:20261006T034500Z
 SUMMARY:ATL 45 @ NO 24 (Final)
-DESCRIPTION:Atlanta Falcons at New Orleans Saints\nWeek 4\nTV: ESPN
+DESCRIPTION:Atlanta Falcons at New Orleans Saints\nWeek 4\nDivision game (N
+ FC South)\nTV: ESPN
 LOCATION:Caesars Superdome\, New Orleans\, LA
 END:VEVENT
 BEGIN:VEVENT
@@ -701,9 +718,9 @@ UID:espn-401872993@nfl-calendars
 DTSTAMP:20261012T002000Z
 DTSTART:20261012T002000Z
 DTEND:20261012T035000Z
-SUMMARY:BAL (3-1) @ ATL (2-2) | ATL -3\, O/U 43.5
+SUMMARY:BAL @ ATL
 DESCRIPTION:Baltimore Ravens at Atlanta Falcons\nWeek 5\nTV: NBC\nLine: ATL
-  -3\, O/U 43.5
+  -3\, O/U 43.5\nRecords: BAL 3-1\, ATL 2-2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
@@ -711,9 +728,9 @@ UID:espn-401872994@nfl-calendars
 DTSTAMP:20261013T001500Z
 DTSTART:20261013T001500Z
 DTEND:20261013T034500Z
-SUMMARY:BUF (3-1) @ LAR (2-2) | LAR -3.5\, O/U 54.5
+SUMMARY:BUF @ LAR
 DESCRIPTION:Buffalo Bills at Los Angeles Rams\nWeek 5\nTV: ESPN\, ABC\nLine
- : LAR -3.5\, O/U 54.5
+ : LAR -3.5\, O/U 54.5\nRecords: BUF 3-1\, LAR 2-2
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -721,9 +738,9 @@ UID:espn-401872995@nfl-calendars
 DTSTAMP:20261016T001500Z
 DTSTART:20261016T001500Z
 DTEND:20261016T034500Z
-SUMMARY:SEA (3-1) @ DEN (2-2) | SEA -1.5\, O/U 42.5
+SUMMARY:SEA @ DEN
 DESCRIPTION:Seattle Seahawks at Denver Broncos\nWeek 6\nTV: Prime Video\nLi
- ne: SEA -1.5\, O/U 42.5
+ ne: SEA -1.5\, O/U 42.5\nRecords: SEA 3-1\, DEN 2-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -731,8 +748,9 @@ UID:espn-401873007@nfl-calendars
 DTSTAMP:20261019T002000Z
 DTSTART:20261019T002000Z
 DTEND:20261019T035000Z
-SUMMARY:DAL (2-3) @ GB (2-2)
-DESCRIPTION:Dallas Cowboys at Green Bay Packers\nWeek 6\nTV: NBC
+SUMMARY:DAL @ GB
+DESCRIPTION:Dallas Cowboys at Green Bay Packers\nWeek 6\nTV: NBC\nRecords: 
+ DAL 2-3\, GB 2-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -740,9 +758,9 @@ UID:espn-401873008@nfl-calendars
 DTSTAMP:20261020T001500Z
 DTSTART:20261020T001500Z
 DTEND:20261020T034500Z
-SUMMARY:WSH (1-3) @ SF (4-0) | SF -7.5\, O/U 50.5
+SUMMARY:WSH @ SF
 DESCRIPTION:Washington Commanders at San Francisco 49ers\nWeek 6\nTV: ESPN\
- , ABC\nLine: SF -7.5\, O/U 50.5
+ , ABC\nLine: SF -7.5\, O/U 50.5\nRecords: WSH 1-3\, SF 4-0
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -750,8 +768,9 @@ UID:espn-401873010@nfl-calendars
 DTSTAMP:20261023T001500Z
 DTSTART:20261023T001500Z
 DTEND:20261023T034500Z
-SUMMARY:NE (2-2) @ CHI (3-1)
-DESCRIPTION:New England Patriots at Chicago Bears\nWeek 7\nTV: Prime Video
+SUMMARY:NE @ CHI
+DESCRIPTION:New England Patriots at Chicago Bears\nWeek 7\nTV: Prime Video\
+ nRecords: NE 2-2\, CHI 3-1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -759,8 +778,9 @@ UID:espn-401873022@nfl-calendars
 DTSTAMP:20261026T002000Z
 DTSTART:20261026T002000Z
 DTEND:20261026T035000Z
-SUMMARY:KC (4-0) @ SEA (3-1)
-DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC
+SUMMARY:KC @ SEA
+DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC\nRecord
+ s: KC 4-0\, SEA 3-1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -768,9 +788,9 @@ UID:espn-401873009@nfl-calendars
 DTSTAMP:20261027T001500Z
 DTSTART:20261027T001500Z
 DTEND:20261027T034500Z
-SUMMARY:DAL (2-3) @ PHI (2-2)
-DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nTV: ESPN\, ABC\,
-  Disney+
+SUMMARY:DAL @ PHI
+DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nDivision game (N
+ FC East)\nTV: ESPN\, ABC\, Disney+\nRecords: DAL 2-3\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -778,8 +798,9 @@ UID:espn-401873023@nfl-calendars
 DTSTAMP:20261030T001500Z
 DTSTART:20261030T001500Z
 DTEND:20261030T034500Z
-SUMMARY:CAR (2-2) @ GB (2-2)
+SUMMARY:CAR @ GB
 DESCRIPTION:Carolina Panthers at Green Bay Packers\nWeek 8\nTV: Prime Video
+ \nRecords: CAR 2-2\, GB 2-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -787,8 +808,9 @@ UID:espn-401873035@nfl-calendars
 DTSTAMP:20261102T012000Z
 DTSTART:20261102T012000Z
 DTEND:20261102T045000Z
-SUMMARY:PHI (2-2) @ WSH (1-3)
-DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nTV: NBC
+SUMMARY:PHI @ WSH
+DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nDivision 
+ game (NFC East)\nTV: NBC\nRecords: PHI 2-2\, WSH 1-3
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -796,8 +818,9 @@ UID:espn-401873036@nfl-calendars
 DTSTAMP:20261103T011500Z
 DTSTART:20261103T011500Z
 DTEND:20261103T044500Z
-SUMMARY:CHI (3-1) @ SEA (3-1)
-DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN
+SUMMARY:CHI @ SEA
+DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nRecords: C
+ HI 3-1\, SEA 3-1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -805,9 +828,9 @@ UID:espn-401873037@nfl-calendars
 DTSTAMP:20261106T011500Z
 DTSTART:20261106T011500Z
 DTEND:20261106T044500Z
-SUMMARY:JAX (3-1) @ BAL (3-1)
+SUMMARY:JAX @ BAL
 DESCRIPTION:Jacksonville Jaguars at Baltimore Ravens\nWeek 9\nTV: Prime Vid
- eo
+ eo\nRecords: JAX 3-1\, BAL 3-1
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -815,8 +838,9 @@ UID:espn-401873050@nfl-calendars
 DTSTAMP:20261109T012000Z
 DTSTART:20261109T012000Z
 DTEND:20261109T045000Z
-SUMMARY:TB (1-4) @ CHI (3-1)
-DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC
+SUMMARY:TB @ CHI
+DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC\nRecords
+ : TB 1-4\, CHI 3-1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -824,8 +848,9 @@ UID:espn-401873051@nfl-calendars
 DTSTAMP:20261110T011500Z
 DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
-SUMMARY:BUF (3-1) @ MIN (4-0)
-DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC
+SUMMARY:BUF @ MIN
+DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nRec
+ ords: BUF 3-1\, MIN 4-0
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -833,9 +858,9 @@ UID:espn-401873052@nfl-calendars
 DTSTAMP:20261113T011500Z
 DTSTART:20261113T011500Z
 DTEND:20261113T044500Z
-SUMMARY:WSH (1-3) @ NYG (3-1)
-DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nTV: Prime Vi
- deo
+SUMMARY:WSH @ NYG
+DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nDivision gam
+ e (NFC East)\nTV: Prime Video\nRecords: WSH 1-3\, NYG 3-1
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -843,8 +868,9 @@ UID:espn-401873064@nfl-calendars
 DTSTAMP:20261116T012000Z
 DTSTART:20261116T012000Z
 DTEND:20261116T045000Z
-SUMMARY:PIT (2-2) @ CIN (2-2)
-DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nTV: NBC
+SUMMARY:PIT @ CIN
+DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nDivision ga
+ me (AFC North)\nTV: NBC\nRecords: PIT 2-2\, CIN 2-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -852,8 +878,9 @@ UID:espn-401873065@nfl-calendars
 DTSTAMP:20261117T011500Z
 DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
-SUMMARY:LAC (0-4) @ BAL (3-1)
-DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN
+SUMMARY:LAC @ BAL
+DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nRe
+ cords: LAC 0-4\, BAL 3-1
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -861,8 +888,9 @@ UID:espn-401873066@nfl-calendars
 DTSTAMP:20261120T011500Z
 DTSTART:20261120T011500Z
 DTEND:20261120T044500Z
-SUMMARY:IND (2-2) @ HOU (0-4)
-DESCRIPTION:Indianapolis Colts at Houston Texans\nWeek 11\nTV: Prime Video
+SUMMARY:IND @ HOU
+DESCRIPTION:Indianapolis Colts at Houston Texans\nWeek 11\nDivision game (A
+ FC South)\nTV: Prime Video\nRecords: IND 2-2\, HOU 0-4
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -870,8 +898,9 @@ UID:espn-401873078@nfl-calendars
 DTSTAMP:20261124T011500Z
 DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
-SUMMARY:CIN (2-2) @ WSH (1-3)
-DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN
+SUMMARY:CIN @ WSH
+DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN\
+ nRecords: CIN 2-2\, WSH 1-3
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -879,8 +908,9 @@ UID:espn-401873079@nfl-calendars
 DTSTAMP:20261126T010000Z
 DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
-SUMMARY:GB (2-2) @ LAR (2-2)
-DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix
+SUMMARY:GB @ LAR
+DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nRe
+ cords: GB 2-2\, LAR 2-2
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -888,8 +918,9 @@ UID:espn-401873082@nfl-calendars
 DTSTAMP:20261127T012000Z
 DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
-SUMMARY:KC (4-0) @ BUF (3-1)
-DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nTV: NBC
+SUMMARY:KC @ BUF
+DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
+ ills rivalry\nTV: NBC\nRecords: KC 4-0\, BUF 3-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -897,8 +928,9 @@ UID:espn-401873093@nfl-calendars
 DTSTAMP:20261130T012000Z
 DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
-SUMMARY:NE (2-2) @ LAC (0-4)
-DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC
+SUMMARY:NE @ LAC
+DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC\
+ nRecords: NE 2-2\, LAC 0-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -906,8 +938,9 @@ UID:espn-401873094@nfl-calendars
 DTSTAMP:20261201T011500Z
 DTSTART:20261201T011500Z
 DTEND:20261201T044500Z
-SUMMARY:CAR (2-2) @ TB (1-4)
-DESCRIPTION:Carolina Panthers at Tampa Bay Buccaneers\nWeek 12\nTV: ESPN
+SUMMARY:CAR @ TB
+DESCRIPTION:Carolina Panthers at Tampa Bay Buccaneers\nWeek 12\nDivision ga
+ me (NFC South)\nTV: ESPN\nRecords: CAR 2-2\, TB 1-4
 LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -915,9 +948,9 @@ UID:espn-401873096@nfl-calendars
 DTSTAMP:20261204T011500Z
 DTSTART:20261204T011500Z
 DTEND:20261204T044500Z
-SUMMARY:KC (4-0) @ LAR (2-2)
+SUMMARY:KC @ LAR
 DESCRIPTION:Kansas City Chiefs at Los Angeles Rams\nWeek 13\nTV: Prime Vide
- o
+ o\nRecords: KC 4-0\, LAR 2-2
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -925,8 +958,9 @@ UID:espn-401873107@nfl-calendars
 DTSTAMP:20261207T012000Z
 DTSTART:20261207T012000Z
 DTEND:20261207T045000Z
-SUMMARY:HOU (0-4) @ PIT (2-2)
-DESCRIPTION:Houston Texans at Pittsburgh Steelers\nWeek 13\nTV: NBC
+SUMMARY:HOU @ PIT
+DESCRIPTION:Houston Texans at Pittsburgh Steelers\nWeek 13\nTV: NBC\nRecord
+ s: HOU 0-4\, PIT 2-2
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -934,8 +968,9 @@ UID:espn-401873108@nfl-calendars
 DTSTAMP:20261208T011500Z
 DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
-SUMMARY:DAL (2-3) @ SEA (3-1)
-DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC
+SUMMARY:DAL @ SEA
+DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nRe
+ cords: DAL 2-3\, SEA 3-1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -943,9 +978,9 @@ UID:espn-401873109@nfl-calendars
 DTSTAMP:20261211T011500Z
 DTSTART:20261211T011500Z
 DTEND:20261211T044500Z
-SUMMARY:MIN (4-0) @ NE (2-2)
+SUMMARY:MIN @ NE
 DESCRIPTION:Minnesota Vikings at New England Patriots\nWeek 14\nTV: Prime V
- ideo
+ ideo\nRecords: MIN 4-0\, NE 2-2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -953,8 +988,9 @@ UID:espn-401873122@nfl-calendars
 DTSTAMP:20261214T012000Z
 DTSTART:20261214T012000Z
 DTEND:20261214T045000Z
-SUMMARY:BUF (3-1) @ GB (2-2)
-DESCRIPTION:Buffalo Bills at Green Bay Packers\nWeek 14\nTV: NBC
+SUMMARY:BUF @ GB
+DESCRIPTION:Buffalo Bills at Green Bay Packers\nWeek 14\nTV: NBC\nRecords: 
+ BUF 3-1\, GB 2-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -962,8 +998,9 @@ UID:espn-401873123@nfl-calendars
 DTSTAMP:20261215T011500Z
 DTSTART:20261215T011500Z
 DTEND:20261215T044500Z
-SUMMARY:PIT (2-2) @ JAX (3-1)
-DESCRIPTION:Pittsburgh Steelers at Jacksonville Jaguars\nWeek 14\nTV: ESPN
+SUMMARY:PIT @ JAX
+DESCRIPTION:Pittsburgh Steelers at Jacksonville Jaguars\nWeek 14\nTV: ESPN\
+ nRecords: PIT 2-2\, JAX 3-1
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -971,9 +1008,9 @@ UID:espn-401873124@nfl-calendars
 DTSTAMP:20261218T011500Z
 DTSTART:20261218T011500Z
 DTEND:20261218T044500Z
-SUMMARY:SF (4-0) @ LAC (0-4)
+SUMMARY:SF @ LAC
 DESCRIPTION:San Francisco 49ers at Los Angeles Chargers\nWeek 15\nTV: Prime
-  Video
+  Video\nRecords: SF 4-0\, LAC 0-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -981,8 +1018,9 @@ UID:espn-401873126@nfl-calendars
 DTSTAMP:20261220T012000Z
 DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
-SUMMARY:CHI (3-1) @ BUF (3-1)
-DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS
+SUMMARY:CHI @ BUF
+DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
+ 3-1\, BUF 3-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -990,8 +1028,9 @@ UID:espn-401873138@nfl-calendars
 DTSTAMP:20261221T012000Z
 DTSTART:20261221T012000Z
 DTEND:20261221T045000Z
-SUMMARY:DET (2-2) @ MIN (4-0)
-DESCRIPTION:Detroit Lions at Minnesota Vikings\nWeek 15\nTV: NBC
+SUMMARY:DET @ MIN
+DESCRIPTION:Detroit Lions at Minnesota Vikings\nWeek 15\nDivision game (NFC
+  North)\nTV: NBC\nRecords: DET 2-2\, MIN 4-0
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -999,9 +1038,9 @@ UID:espn-401873139@nfl-calendars
 DTSTAMP:20261222T011500Z
 DTSTART:20261222T011500Z
 DTEND:20261222T044500Z
-SUMMARY:NE (2-2) @ KC (4-0)
+SUMMARY:NE @ KC
 DESCRIPTION:New England Patriots at Kansas City Chiefs\nWeek 15\nTV: ESPN\,
-  ABC
+  ABC\nRecords: NE 2-2\, KC 4-0
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -1009,8 +1048,9 @@ UID:espn-401873140@nfl-calendars
 DTSTAMP:20261225T011500Z
 DTSTART:20261225T011500Z
 DTEND:20261225T044500Z
-SUMMARY:HOU (0-4) @ PHI (2-2)
+SUMMARY:HOU @ PHI
 DESCRIPTION:Houston Texans at Philadelphia Eagles\nWeek 16\nTV: Prime Video
+ \nRecords: HOU 0-4\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -1018,8 +1058,9 @@ UID:espn-401873141@nfl-calendars
 DTSTAMP:20261225T180000Z
 DTSTART:20261225T180000Z
 DTEND:20261225T213000Z
-SUMMARY:GB (2-2) @ CHI (3-1)
-DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nTV: Netflix
+SUMMARY:GB @ CHI
+DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
+  North)\nTV: Netflix\nRecords: GB 2-2\, CHI 3-1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -1027,8 +1068,9 @@ UID:espn-401873142@nfl-calendars
 DTSTAMP:20261225T213000Z
 DTSTART:20261225T213000Z
 DTEND:20261226T010000Z
-SUMMARY:BUF (3-1) @ DEN (2-2)
-DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix
+SUMMARY:BUF @ DEN
+DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix\nRecords:
+  BUF 3-1\, DEN 2-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -1036,8 +1078,9 @@ UID:espn-401873143@nfl-calendars
 DTSTAMP:20261226T011500Z
 DTSTART:20261226T011500Z
 DTEND:20261226T044500Z
-SUMMARY:LAR (2-2) @ SEA (3-1)
-DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nTV: Fox
+SUMMARY:LAR @ SEA
+DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nDivision game (N
+ FC West)\nTV: Fox\nRecords: LAR 2-2\, SEA 3-1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -1045,8 +1088,9 @@ UID:espn-401873154@nfl-calendars
 DTSTAMP:20261228T012000Z
 DTSTART:20261228T012000Z
 DTEND:20261228T045000Z
-SUMMARY:JAX (3-1) @ DAL (2-3)
-DESCRIPTION:Jacksonville Jaguars at Dallas Cowboys\nWeek 16\nTV: NBC
+SUMMARY:JAX @ DAL
+DESCRIPTION:Jacksonville Jaguars at Dallas Cowboys\nWeek 16\nTV: NBC\nRecor
+ ds: JAX 3-1\, DAL 2-3
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -1054,8 +1098,9 @@ UID:espn-401873155@nfl-calendars
 DTSTAMP:20261229T011500Z
 DTSTART:20261229T011500Z
 DTEND:20261229T044500Z
-SUMMARY:NYG (3-1) @ DET (2-2)
-DESCRIPTION:New York Giants at Detroit Lions\nWeek 16\nTV: ESPN
+SUMMARY:NYG @ DET
+DESCRIPTION:New York Giants at Detroit Lions\nWeek 16\nTV: ESPN\nRecords: N
+ YG 3-1\, DET 2-2
 LOCATION:Ford Field\, Detroit\, MI
 END:VEVENT
 BEGIN:VEVENT
@@ -1063,9 +1108,9 @@ UID:espn-401873156@nfl-calendars
 DTSTAMP:20270101T011500Z
 DTSTART:20270101T011500Z
 DTEND:20270101T044500Z
-SUMMARY:BAL (3-1) @ CIN (2-2)
-DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nTV: Prime Vide
- o
+SUMMARY:BAL @ CIN
+DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nDivision game 
+ (AFC North)\nTV: Prime Video\nRecords: BAL 3-1\, CIN 2-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,8 +1118,9 @@ UID:espn-401873170@nfl-calendars
 DTSTAMP:20270104T012000Z
 DTSTART:20270104T012000Z
 DTEND:20270104T045000Z
-SUMMARY:PHI (2-2) @ SF (4-0)
-DESCRIPTION:Philadelphia Eagles at San Francisco 49ers\nWeek 17\nTV: NBC
+SUMMARY:PHI @ SF
+DESCRIPTION:Philadelphia Eagles at San Francisco 49ers\nWeek 17\nTV: NBC\nR
+ ecords: PHI 2-2\, SF 4-0
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,8 +1128,9 @@ UID:espn-401873171@nfl-calendars
 DTSTAMP:20270105T011500Z
 DTSTART:20270105T011500Z
 DTEND:20270105T044500Z
-SUMMARY:HOU (0-4) @ GB (2-2)
-DESCRIPTION:Houston Texans at Green Bay Packers\nWeek 17\nTV: ESPN
+SUMMARY:HOU @ GB
+DESCRIPTION:Houston Texans at Green Bay Packers\nWeek 17\nTV: ESPN\nRecords
+ : HOU 0-4\, GB 2-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 END:VCALENDAR

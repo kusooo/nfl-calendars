@@ -23,8 +23,8 @@ DTSTAMP:20260111T010000Z
 DTSTART:20260111T010000Z
 DTEND:20260111T043000Z
 SUMMARY:NFC Wild Card Playoffs: GB 27 @ CHI 31 (Final)
-DESCRIPTION:Green Bay Packers at Chicago Bears\nNFC Wild Card Playoffs\nTV:
-  Prime Video
+DESCRIPTION:Green Bay Packers at Chicago Bears\nNFC Wild Card Playoffs\nDiv
+ ision game (NFC North)\nTV: Prime Video
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -84,7 +84,7 @@ DTSTART:20260118T010000Z
 DTEND:20260118T043000Z
 SUMMARY:NFC Divisional Playoffs: SF 6 @ SEA 41 (Final)
 DESCRIPTION:San Francisco 49ers at Seattle Seahawks\nNFC Divisional Playoff
- s\nTV: Fox
+ s\nDivision game (NFC West)\nTV: Fox
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,8 @@ DTSTAMP:20260125T233000Z
 DTSTART:20260125T233000Z
 DTEND:20260126T030000Z
 SUMMARY:NFC Championship: LAR 27 @ SEA 31 (Final)
-DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nNFC Championship\nTV: Fox
+DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nNFC Championship\nDivisio
+ n game (NFC West)\nTV: Fox
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

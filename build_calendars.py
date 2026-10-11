@@ -31,6 +31,27 @@ TEAMS = {
 }
 TEAM_CALENDAR_NAMES = {"eagles": "Philadelphia Eagles", "texans": "Houston Texans"}
 
+DIVISIONS = {
+    "AFC East": "BUF MIA NE NYJ", "AFC North": "BAL CIN CLE PIT",
+    "AFC South": "HOU IND JAX TEN", "AFC West": "DEN KC LAC LV",
+    "NFC East": "DAL NYG PHI WSH", "NFC North": "CHI DET GB MIN",
+    "NFC South": "ATL CAR NO TB", "NFC West": "ARI LAR SF SEA",
+}
+TEAM_DIVISION = {t: div for div, teams in DIVISIONS.items() for t in teams.split()}
+# Well-known rivalries between teams in different divisions
+RIVALRIES = {
+    frozenset({"PHI", "PIT"}): "Battle of Pennsylvania",
+    frozenset({"HOU", "DAL"}): "Governor's Cup (Battle of Texas)",
+    frozenset({"NYG", "NYJ"}): "Battle of New York",
+    frozenset({"LAR", "LAC"}): "Battle of Los Angeles",
+    frozenset({"SF", "DAL"}): "49ers-Cowboys rivalry",
+    frozenset({"SF", "GB"}): "49ers-Packers rivalry",
+    frozenset({"KC", "BUF"}): "Chiefs-Bills rivalry",
+    frozenset({"NE", "IND"}): "Patriots-Colts rivalry",
+    frozenset({"BAL", "IND"}): "Ravens-Colts rivalry",
+    frozenset({"MIA", "TB"}): "Battle of Florida",
+}
+
 
 def current_season(today=None):
     """NFL season year: the season that runs Sept YYYY - Feb YYYY+1. Rolls over in March."""
@@ -230,6 +251,16 @@ def vevent(uid, start, summary, description, location=None, all_day_date=None):
     return lines
 
 
+def matchup_note(a, b):
+    notes = []
+    div = TEAM_DIVISION.get(a)
+    if div and div == TEAM_DIVISION.get(b):
+        notes.append(f"Division game ({div})")
+    if frozenset({a, b}) in RIVALRIES:
+        notes.append(f"Rivalry: {RIVALRIES[frozenset({a, b})]}")
+    return " | ".join(notes) or None
+
+
 def game_vevent(ev, records, recap=None):
     """records: current records for this game's season (used for upcoming games)."""
     home, away = side(ev, "home"), side(ev, "away")
@@ -239,13 +270,7 @@ def game_vevent(ev, records, recap=None):
     if completed(ev):
         title = f"{abbr(away)} {score(away)} @ {abbr(home)} {score(home)} (Final)"
     else:
-        def label(c):
-            r = records.get(team_id(c))
-            return f"{abbr(c)} ({fmt_record(r)})" if r else abbr(c)
-        title = f"{label(away)} @ {label(home)}"
-        line = betting_line(ev)
-        if line:
-            title += f" | {line}"
+        title = f"{abbr(away)} @ {abbr(home)}"
     if post and rnd:
         title = f"{rnd}: {title}"
     if not time_valid(ev):
@@ -259,10 +284,17 @@ def game_vevent(ev, records, recap=None):
     desc.append(rnd if post and rnd else f"Week {week}" if week else "")
     if not post and rnd:
         desc.append(rnd)  # e.g. flex-scheduling notes
+    matchup = matchup_note(abbr(away), abbr(home))
+    if matchup:
+        desc.append(matchup)
     if broadcasts(ev):
         desc.append(f"TV: {broadcasts(ev)}")
     if betting_line(ev):
         desc.append(f"Line: {betting_line(ev)}")
+    if not completed(ev):
+        recs = [f"{abbr(c)} {fmt_record(records[team_id(c)])}" for c in (away, home) if team_id(c) in records]
+        if recs:
+            desc.append("Records: " + ", ".join(recs))
     if not time_valid(ev):
         desc.append("Kickoff time TBD")
 

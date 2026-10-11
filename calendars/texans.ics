@@ -37,7 +37,7 @@ DTEND:20250921T203000Z
 SUMMARY:HOU 10 @ JAX 17 (Final)
 DESCRIPTION:Final: Texans 10\, Jaguars 17 (L)\nTexans record: 0-3\nNext: vs
   Tennessee Titans\, Sun Sep 28\, 1:00 PM ET (CBS)\n\nHouston Texans at Jac
- ksonville Jaguars\nWeek 3\nTV: CBS
+ ksonville Jaguars\nWeek 3\nDivision game (AFC South)\nTV: CBS
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -48,7 +48,7 @@ DTEND:20250928T203000Z
 SUMMARY:TEN 0 @ HOU 26 (Final)
 DESCRIPTION:Final: Texans 26\, Titans 0 (W)\nTexans record: 1-3\nNext: @ Ba
  ltimore Ravens\, Sun Oct 5\, 1:00 PM ET (CBS)\n\nTennessee Titans at Houst
- on Texans\nWeek 4\nTV: CBS
+ on Texans\nWeek 4\nDivision game (AFC South)\nTV: CBS
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DTEND:20251109T213000Z
 SUMMARY:JAX 29 @ HOU 36 (Final)
 DESCRIPTION:Final: Texans 36\, Jaguars 29 (W)\nTexans record: 4-5\nNext: @ 
  Tennessee Titans\, Sun Nov 16\, 1:00 PM ET (Fox)\n\nJacksonville Jaguars a
- t Houston Texans\nWeek 10\nTV: CBS
+ t Houston Texans\nWeek 10\nDivision game (AFC South)\nTV: CBS
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -122,7 +122,7 @@ DTEND:20251116T213000Z
 SUMMARY:HOU 16 @ TEN 13 (Final)
 DESCRIPTION:Final: Texans 16\, Titans 13 (W)\nTexans record: 5-5\nNext: vs 
  Buffalo Bills\, Thu Nov 20\, 8:15 PM ET (Prime Video)\n\nHouston Texans at
-  Tennessee Titans\nWeek 11\nTV: Fox
+  Tennessee Titans\nWeek 11\nDivision game (AFC South)\nTV: Fox
 LOCATION:Nissan Stadium\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +144,7 @@ DTEND:20251130T213000Z
 SUMMARY:HOU 20 @ IND 16 (Final)
 DESCRIPTION:Final: Texans 20\, Colts 16 (W)\nTexans record: 7-5\nNext: @ Ka
  nsas City Chiefs\, Sun Dec 7\, 8:20 PM ET (NBC\, Peacock)\n\nHouston Texan
- s at Indianapolis Colts\nWeek 13\nTV: CBS
+ s at Indianapolis Colts\nWeek 13\nDivision game (AFC South)\nTV: CBS
 LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
 END:VEVENT
 BEGIN:VEVENT
@@ -199,7 +199,7 @@ DTEND:20260104T213000Z
 SUMMARY:IND 30 @ HOU 38 (Final)
 DESCRIPTION:Final: Texans 38\, Colts 30 (W)\nTexans record: 12-5\nNext: @ P
  ittsburgh Steelers\, Mon Jan 12\, 8:15 PM ET (ESPN\, ABC)\n\nIndianapolis 
- Colts at Houston Texans\nWeek 18\nTV: CBS
+ Colts at Houston Texans\nWeek 18\nDivision game (AFC South)\nTV: CBS
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -253,7 +253,7 @@ DTEND:20260927T203000Z
 SUMMARY:HOU 17 @ IND 19 (Final)
 DESCRIPTION:Final: Texans 17\, Colts 19 (L)\nTexans record: 0-3\nNext: vs D
  allas Cowboys\, Sun Oct 4\, 1:00 PM ET (Fox)\n\nHouston Texans at Indianap
- olis Colts\nWeek 3\nTV: CBS
+ olis Colts\nWeek 3\nDivision game (AFC South)\nTV: CBS
 LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
 END:VEVENT
 BEGIN:VEVENT
@@ -264,7 +264,7 @@ DTEND:20261004T203000Z
 SUMMARY:DAL 34 @ HOU 30 (Final)
 DESCRIPTION:Final: Texans 30\, Cowboys 34 (L)\nTexans record: 0-4\nNext: @ 
  Tennessee Titans\, Sun Oct 11\, 1:00 PM ET (CBS)\n\nDallas Cowboys at Hous
- ton Texans\nWeek 4\nTV: Fox
+ ton Texans\nWeek 4\nRivalry: Governor's Cup (Battle of Texas)\nTV: Fox
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -272,9 +272,9 @@ UID:espn-401872984@nfl-calendars
 DTSTAMP:20261011T170000Z
 DTSTART:20261011T170000Z
 DTEND:20261011T203000Z
-SUMMARY:HOU (0-4) @ TEN (0-4) | HOU -7\, O/U 37.5
-DESCRIPTION:Houston Texans at Tennessee Titans\nWeek 5\nTV: CBS\nLine: HOU 
- -7\, O/U 37.5
+SUMMARY:HOU @ TEN
+DESCRIPTION:Houston Texans at Tennessee Titans\nWeek 5\nDivision game (AFC 
+ South)\nTV: CBS\nLine: HOU -7\, O/U 37.5\nRecords: HOU 0-4\, TEN 0-4
 LOCATION:Nissan Stadium\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -282,9 +282,10 @@ UID:espn-401872996@nfl-calendars
 DTSTAMP:20261018T133000Z
 DTSTART:20261018T133000Z
 DTEND:20261018T170000Z
-SUMMARY:HOU (0-4) @ JAX (3-1) | JAX -3\, O/U 43.5
+SUMMARY:HOU @ JAX
 DESCRIPTION:Houston Texans at Jacksonville Jaguars\nWeek 6\nNFL London Game
- s\nTV: NFL Net\nLine: JAX -3\, O/U 43.5
+ s\nDivision game (AFC South)\nTV: NFL Net\nLine: JAX -3\, O/U 43.5\nRecord
+ s: HOU 0-4\, JAX 3-1
 LOCATION:Wembley Stadium\, London\, England
 END:VEVENT
 BEGIN:VEVENT
@@ -292,8 +293,9 @@ UID:espn-401873016@nfl-calendars
 DTSTAMP:20261025T170000Z
 DTSTART:20261025T170000Z
 DTEND:20261025T203000Z
-SUMMARY:NYG (3-1) @ HOU (0-4)
-DESCRIPTION:New York Giants at Houston Texans\nWeek 7\nTV: Fox
+SUMMARY:NYG @ HOU
+DESCRIPTION:New York Giants at Houston Texans\nWeek 7\nTV: Fox\nRecords: NY
+ G 3-1\, HOU 0-4
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -309,8 +311,9 @@ UID:espn-401873046@nfl-calendars
 DTSTAMP:20261108T210500Z
 DTSTART:20261108T210500Z
 DTEND:20261109T003500Z
-SUMMARY:HOU (0-4) @ LAC (0-4)
-DESCRIPTION:Houston Texans at Los Angeles Chargers\nWeek 9\nTV: CBS
+SUMMARY:HOU @ LAC
+DESCRIPTION:Houston Texans at Los Angeles Chargers\nWeek 9\nTV: CBS\nRecord
+ s: HOU 0-4\, LAC 0-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -318,8 +321,9 @@ UID:espn-401873056@nfl-calendars
 DTSTAMP:20261115T180000Z
 DTSTART:20261115T180000Z
 DTEND:20261115T213000Z
-SUMMARY:HOU (0-4) @ CLE (3-1)
-DESCRIPTION:Houston Texans at Cleveland Browns\nWeek 10\nTV: Fox
+SUMMARY:HOU @ CLE
+DESCRIPTION:Houston Texans at Cleveland Browns\nWeek 10\nTV: Fox\nRecords: 
+ HOU 0-4\, CLE 3-1
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -327,8 +331,9 @@ UID:espn-401873066@nfl-calendars
 DTSTAMP:20261120T011500Z
 DTSTART:20261120T011500Z
 DTEND:20261120T044500Z
-SUMMARY:IND (2-2) @ HOU (0-4)
-DESCRIPTION:Indianapolis Colts at Houston Texans\nWeek 11\nTV: Prime Video
+SUMMARY:IND @ HOU
+DESCRIPTION:Indianapolis Colts at Houston Texans\nWeek 11\nDivision game (A
+ FC South)\nTV: Prime Video\nRecords: IND 2-2\, HOU 0-4
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -336,8 +341,9 @@ UID:espn-401873085@nfl-calendars
 DTSTAMP:20261129T180000Z
 DTSTART:20261129T180000Z
 DTEND:20261129T213000Z
-SUMMARY:BAL (3-1) @ HOU (0-4)
-DESCRIPTION:Baltimore Ravens at Houston Texans\nWeek 12\nTV: CBS
+SUMMARY:BAL @ HOU
+DESCRIPTION:Baltimore Ravens at Houston Texans\nWeek 12\nTV: CBS\nRecords: 
+ BAL 3-1\, HOU 0-4
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +351,9 @@ UID:espn-401873107@nfl-calendars
 DTSTAMP:20261207T012000Z
 DTSTART:20261207T012000Z
 DTEND:20261207T045000Z
-SUMMARY:HOU (0-4) @ PIT (2-2)
-DESCRIPTION:Houston Texans at Pittsburgh Steelers\nWeek 13\nTV: NBC
+SUMMARY:HOU @ PIT
+DESCRIPTION:Houston Texans at Pittsburgh Steelers\nWeek 13\nTV: NBC\nRecord
+ s: HOU 0-4\, PIT 2-2
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -354,8 +361,9 @@ UID:espn-401873113@nfl-calendars
 DTSTAMP:20261213T180000Z
 DTSTART:20261213T180000Z
 DTEND:20261213T213000Z
-SUMMARY:HOU (0-4) @ WSH (1-3)
-DESCRIPTION:Houston Texans at Washington Commanders\nWeek 14\nTV: CBS
+SUMMARY:HOU @ WSH
+DESCRIPTION:Houston Texans at Washington Commanders\nWeek 14\nTV: CBS\nReco
+ rds: HOU 0-4\, WSH 1-3
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -363,8 +371,9 @@ UID:espn-401873132@nfl-calendars
 DTSTAMP:20261220T180000Z
 DTSTART:20261220T180000Z
 DTEND:20261220T213000Z
-SUMMARY:JAX (3-1) @ HOU (0-4)
-DESCRIPTION:Jacksonville Jaguars at Houston Texans\nWeek 15\nTV: CBS
+SUMMARY:JAX @ HOU
+DESCRIPTION:Jacksonville Jaguars at Houston Texans\nWeek 15\nDivision game 
+ (AFC South)\nTV: CBS\nRecords: JAX 3-1\, HOU 0-4
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -372,8 +381,9 @@ UID:espn-401873140@nfl-calendars
 DTSTAMP:20261225T011500Z
 DTSTART:20261225T011500Z
 DTEND:20261225T044500Z
-SUMMARY:HOU (0-4) @ PHI (2-2)
+SUMMARY:HOU @ PHI
 DESCRIPTION:Houston Texans at Philadelphia Eagles\nWeek 16\nTV: Prime Video
+ \nRecords: HOU 0-4\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -381,8 +391,9 @@ UID:espn-401873171@nfl-calendars
 DTSTAMP:20270105T011500Z
 DTSTART:20270105T011500Z
 DTEND:20270105T044500Z
-SUMMARY:HOU (0-4) @ GB (2-2)
-DESCRIPTION:Houston Texans at Green Bay Packers\nWeek 17\nTV: ESPN
+SUMMARY:HOU @ GB
+DESCRIPTION:Houston Texans at Green Bay Packers\nWeek 17\nTV: ESPN\nRecords
+ : HOU 0-4\, GB 2-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -390,9 +401,10 @@ UID:espn-401873187@nfl-calendars
 DTSTAMP:20270110T050000Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:TEN (0-4) @ HOU (0-4) (time TBD)
+SUMMARY:TEN @ HOU (time TBD)
 DESCRIPTION:Tennessee Titans at Houston Texans\nWeek 18\nFlex Game: 1/9 or 
- 1/10\nKickoff time TBD
+ 1/10\nDivision game (AFC South)\nRecords: TEN 0-4\, HOU 0-4\nKickoff time 
+ TBD
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 END:VCALENDAR
