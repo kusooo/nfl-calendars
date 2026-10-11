@@ -22,7 +22,7 @@ A GitHub Action rebuilds them daily: final scores go into event titles, flexed k
 
 ## Subscribe
 
-Use these URLs (replace `kusooo`):
+Use these URLs:
 
 ```
 https://raw.githubusercontent.com/kusooo/nfl-calendars/main/calendars/eagles.ics
