@@ -9,6 +9,8 @@ Auto-updating `.ics` calendars built from ESPN's public schedule API:
 | NFL Playoffs + Super Bowl | `calendars/playoffs.ics` |
 | NFL Prime Time (Thu/Sun/Mon night + Christmas; no international games) | `calendars/primetime.ics` |
 
+The playoffs and prime-time calendars leave out Eagles and Texans games, since those are already on the team calendars (so nothing shows twice).
+
 A GitHub Action rebuilds them daily: final scores go into event titles, flexed kickoff times update, playoff matchups fill in as they're set, and the season rolls over every March automatically. Each calendar keeps the previous season too, so nothing disappears between the rollover and the May schedule release. Games without a set kickoff show as all-day "time TBD" events.
 
 What's in each event:

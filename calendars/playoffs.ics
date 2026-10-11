@@ -38,16 +38,6 @@ DESCRIPTION:Buffalo Bills at Jacksonville Jaguars\nAFC Wild Card Playoffs\n
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401772980@nfl-calendars
-DTSTAMP:20260111T213000Z
-DTSTART:20260111T213000Z
-DTEND:20260112T010000Z
-SUMMARY:NFC Wild Card Playoffs: SF 23 @ PHI 19 (Final)
-DESCRIPTION:San Francisco 49ers at Philadelphia Eagles\nNFC Wild Card Playo
- ffs\nTV: Fox
-LOCATION:Lincoln Financial Field\, Philadelphia\, PA
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401772978@nfl-calendars
 DTSTAMP:20260112T011500Z
 DTSTART:20260112T011500Z
@@ -56,16 +46,6 @@ SUMMARY:AFC Wild Card Playoffs: LAC 3 @ NE 16 (Final)
 DESCRIPTION:Los Angeles Chargers at New England Patriots\nAFC Wild Card Pla
  yoffs\nTV: NBC\, Peacock
 LOCATION:Gillette Stadium\, Foxborough\, MA
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401772976@nfl-calendars
-DTSTAMP:20260113T011500Z
-DTSTART:20260113T011500Z
-DTEND:20260113T044500Z
-SUMMARY:AFC Wild Card Playoffs: HOU 30 @ PIT 6 (Final)
-DESCRIPTION:Houston Texans at Pittsburgh Steelers\nAFC Wild Card Playoffs\n
- TV: ESPN\, ABC
-LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401772982@nfl-calendars
@@ -86,16 +66,6 @@ SUMMARY:NFC Divisional Playoffs: SF 6 @ SEA 41 (Final)
 DESCRIPTION:San Francisco 49ers at Seattle Seahawks\nNFC Divisional Playoff
  s\nDivision game (NFC West)\nTV: Fox
 LOCATION:Lumen Field\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401772983@nfl-calendars
-DTSTAMP:20260118T200000Z
-DTSTART:20260118T200000Z
-DTEND:20260118T233000Z
-SUMMARY:AFC Divisional Playoffs: HOU 16 @ NE 28 (Final)
-DESCRIPTION:Houston Texans at New England Patriots\nAFC Divisional Playoffs
- \nTV: ESPN\, ABC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401772985@nfl-calendars

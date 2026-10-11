@@ -426,10 +426,14 @@ def main(argv=None):
         (out / filename).write_bytes(build_ics(name, entries).encode("utf-8"))
         print(f"{filename}: {len(entries)} events")
 
-    playoffs = dedupe(e for s in seasons for e in s.post)
+    # Our teams' games live on their team calendars only, so they don't show twice.
+    def ours(ev):
+        return any(involves(ev, tid) for tid, _ in TEAMS.values())
+
+    playoffs = dedupe(e for s in seasons for e in s.post if not ours(e))
     write("NFL Playoffs", "playoffs.ics", [entry(e) for e in playoffs])
 
-    prime = dedupe(e for s in seasons for e in s.regular if is_prime_time(e))
+    prime = dedupe(e for s in seasons for e in s.regular if is_prime_time(e) and not ours(e))
     write("NFL Prime Time", "primetime.ics", [entry(e) for e in prime])
 
     now = datetime.now(timezone.utc)
