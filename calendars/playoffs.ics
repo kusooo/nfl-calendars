@@ -12,8 +12,9 @@ UID:espn-401772979@nfl-calendars
 DTSTAMP:20260110T213000Z
 DTSTART:20260110T213000Z
 DTEND:20260111T010000Z
-SUMMARY:NFC Wild Card Playoffs: LAR @ CAR (Final: LAR 34\, CAR 31)
-DESCRIPTION:Los Angeles Rams at Carolina Panthers
+SUMMARY:NFC Wild Card Playoffs: LAR 34 @ CAR 31 (Final)
+DESCRIPTION:Los Angeles Rams at Carolina Panthers\nNFC Wild Card Playoffs\n
+ TV: Fox
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
@@ -21,8 +22,9 @@ UID:espn-401772981@nfl-calendars
 DTSTAMP:20260111T010000Z
 DTSTART:20260111T010000Z
 DTEND:20260111T043000Z
-SUMMARY:NFC Wild Card Playoffs: GB @ CHI (Final: GB 27\, CHI 31)
-DESCRIPTION:Green Bay Packers at Chicago Bears
+SUMMARY:NFC Wild Card Playoffs: GB 27 @ CHI 31 (Final)
+DESCRIPTION:Green Bay Packers at Chicago Bears\nNFC Wild Card Playoffs\nTV:
+  Prime Video
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -30,8 +32,9 @@ UID:espn-401772977@nfl-calendars
 DTSTAMP:20260111T180000Z
 DTSTART:20260111T180000Z
 DTEND:20260111T213000Z
-SUMMARY:AFC Wild Card Playoffs: BUF @ JAX (Final: BUF 27\, JAX 24)
-DESCRIPTION:Buffalo Bills at Jacksonville Jaguars
+SUMMARY:AFC Wild Card Playoffs: BUF 27 @ JAX 24 (Final)
+DESCRIPTION:Buffalo Bills at Jacksonville Jaguars\nAFC Wild Card Playoffs\n
+ TV: CBS
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -39,8 +42,9 @@ UID:espn-401772980@nfl-calendars
 DTSTAMP:20260111T213000Z
 DTSTART:20260111T213000Z
 DTEND:20260112T010000Z
-SUMMARY:NFC Wild Card Playoffs: SF @ PHI (Final: SF 23\, PHI 19)
-DESCRIPTION:San Francisco 49ers at Philadelphia Eagles
+SUMMARY:NFC Wild Card Playoffs: SF 23 @ PHI 19 (Final)
+DESCRIPTION:San Francisco 49ers at Philadelphia Eagles\nNFC Wild Card Playo
+ ffs\nTV: Fox
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -48,8 +52,9 @@ UID:espn-401772978@nfl-calendars
 DTSTAMP:20260112T011500Z
 DTSTART:20260112T011500Z
 DTEND:20260112T044500Z
-SUMMARY:AFC Wild Card Playoffs: LAC @ NE (Final: LAC 3\, NE 16)
-DESCRIPTION:Los Angeles Chargers at New England Patriots
+SUMMARY:AFC Wild Card Playoffs: LAC 3 @ NE 16 (Final)
+DESCRIPTION:Los Angeles Chargers at New England Patriots\nAFC Wild Card Pla
+ yoffs\nTV: NBC\, Peacock
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -57,8 +62,9 @@ UID:espn-401772976@nfl-calendars
 DTSTAMP:20260113T011500Z
 DTSTART:20260113T011500Z
 DTEND:20260113T044500Z
-SUMMARY:AFC Wild Card Playoffs: HOU @ PIT (Final: HOU 30\, PIT 6)
-DESCRIPTION:Houston Texans at Pittsburgh Steelers
+SUMMARY:AFC Wild Card Playoffs: HOU 30 @ PIT 6 (Final)
+DESCRIPTION:Houston Texans at Pittsburgh Steelers\nAFC Wild Card Playoffs\n
+ TV: ESPN\, ABC
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -66,8 +72,9 @@ UID:espn-401772982@nfl-calendars
 DTSTAMP:20260117T213000Z
 DTSTART:20260117T213000Z
 DTEND:20260118T010000Z
-SUMMARY:AFC Divisional Playoffs: BUF @ DEN (Final: BUF 30\, DEN 33)
-DESCRIPTION:Buffalo Bills at Denver Broncos
+SUMMARY:AFC Divisional Playoffs: BUF 30 @ DEN 33 (Final)
+DESCRIPTION:Buffalo Bills at Denver Broncos\nAFC Divisional Playoffs\nTV: C
+ BS\, Paramount+
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -75,8 +82,9 @@ UID:espn-401772984@nfl-calendars
 DTSTAMP:20260118T010000Z
 DTSTART:20260118T010000Z
 DTEND:20260118T043000Z
-SUMMARY:NFC Divisional Playoffs: SF @ SEA (Final: SF 6\, SEA 41)
-DESCRIPTION:San Francisco 49ers at Seattle Seahawks
+SUMMARY:NFC Divisional Playoffs: SF 6 @ SEA 41 (Final)
+DESCRIPTION:San Francisco 49ers at Seattle Seahawks\nNFC Divisional Playoff
+ s\nTV: Fox
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -84,8 +92,9 @@ UID:espn-401772983@nfl-calendars
 DTSTAMP:20260118T200000Z
 DTSTART:20260118T200000Z
 DTEND:20260118T233000Z
-SUMMARY:AFC Divisional Playoffs: HOU @ NE (Final: HOU 16\, NE 28)
-DESCRIPTION:Houston Texans at New England Patriots
+SUMMARY:AFC Divisional Playoffs: HOU 16 @ NE 28 (Final)
+DESCRIPTION:Houston Texans at New England Patriots\nAFC Divisional Playoffs
+ \nTV: ESPN\, ABC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +102,9 @@ UID:espn-401772985@nfl-calendars
 DTSTAMP:20260118T233000Z
 DTSTART:20260118T233000Z
 DTEND:20260119T030000Z
-SUMMARY:NFC Divisional Playoffs: LAR @ CHI (Final: LAR 20\, CHI 17)
-DESCRIPTION:Los Angeles Rams at Chicago Bears
+SUMMARY:NFC Divisional Playoffs: LAR 20 @ CHI 17 (Final)
+DESCRIPTION:Los Angeles Rams at Chicago Bears\nNFC Divisional Playoffs\nTV:
+  NBC\, Peacock
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -102,8 +112,9 @@ UID:espn-401772986@nfl-calendars
 DTSTAMP:20260125T200000Z
 DTSTART:20260125T200000Z
 DTEND:20260125T233000Z
-SUMMARY:AFC Championship: NE @ DEN (Final: NE 10\, DEN 7)
-DESCRIPTION:New England Patriots at Denver Broncos
+SUMMARY:AFC Championship: NE 10 @ DEN 7 (Final)
+DESCRIPTION:New England Patriots at Denver Broncos\nAFC Championship\nTV: C
+ BS\, Paramount+
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -111,8 +122,8 @@ UID:espn-401772987@nfl-calendars
 DTSTAMP:20260125T233000Z
 DTSTART:20260125T233000Z
 DTEND:20260126T030000Z
-SUMMARY:NFC Championship: LAR @ SEA (Final: LAR 27\, SEA 31)
-DESCRIPTION:Los Angeles Rams at Seattle Seahawks
+SUMMARY:NFC Championship: LAR 27 @ SEA 31 (Final)
+DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nNFC Championship\nTV: Fox
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -120,8 +131,9 @@ UID:espn-401772988@nfl-calendars
 DTSTAMP:20260208T233000Z
 DTSTART:20260208T233000Z
 DTEND:20260209T030000Z
-SUMMARY:Super Bowl LX: SEA VS NE (Final: SEA 29\, NE 13)
-DESCRIPTION:Seattle Seahawks at New England Patriots
+SUMMARY:Super Bowl LX: SEA 29 @ NE 13 (Final)
+DESCRIPTION:Seattle Seahawks at New England Patriots\nSuper Bowl LX\nTV: NB
+ C\, Peacock
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +142,7 @@ DTSTAMP:20270116T050000Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Wild Card Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nWild Card Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872911@nfl-calendars
@@ -138,7 +150,7 @@ DTSTAMP:20270116T050000Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Wild Card Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nWild Card Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872912@nfl-calendars
@@ -146,7 +158,7 @@ DTSTAMP:20270117T050000Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Wild Card Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nWild Card Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872913@nfl-calendars
@@ -154,7 +166,7 @@ DTSTAMP:20270117T050000Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Wild Card Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nWild Card Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872914@nfl-calendars
@@ -162,7 +174,7 @@ DTSTAMP:20270117T050000Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Wild Card Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nWild Card Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872915@nfl-calendars
@@ -170,7 +182,7 @@ DTSTAMP:20270118T050000Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Wild Card Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nWild Card Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872916@nfl-calendars
@@ -178,7 +190,7 @@ DTSTAMP:20270123T050000Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Divisional Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nDivisional Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872917@nfl-calendars
@@ -186,7 +198,7 @@ DTSTAMP:20270123T050000Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Divisional Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nDivisional Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872918@nfl-calendars
@@ -194,7 +206,7 @@ DTSTAMP:20270124T050000Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Divisional Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nDivisional Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872919@nfl-calendars
@@ -202,7 +214,7 @@ DTSTAMP:20270124T050000Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Divisional Playoffs: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nDivisional Playoffs\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872920@nfl-calendars
@@ -210,7 +222,7 @@ DTSTAMP:20270131T050000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:NFC Championship: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nNFC Championship\nKickoff time TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401872921@nfl-calendars
@@ -218,6 +230,6 @@ DTSTAMP:20270131T050000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:AFC Championship: TBD @ TBD (time TBD)
-DESCRIPTION:TBD at TBD\nKickoff time TBD
+DESCRIPTION:TBD at TBD\nAFC Championship\nKickoff time TBD
 END:VEVENT
 END:VCALENDAR

@@ -2,12 +2,19 @@ name: Update NFL calendars
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # daily, ~7am ET
-    - cron: "0 9 * * 1,2"  # Mon/Tue after Sunday/Monday night games
+    - cron: "0 11 * * *"     # daily, ~7am ET
+    - cron: "15 21 * * 0"    # Sunday, after the 1pm ET games
+    - cron: "30 0 * * 1"     # Sunday, after the late-afternoon games
+    - cron: "30 4 * * 1,2,5" # after Sunday, Monday and Thursday night games
   workflow_dispatch:
 
 permissions:
   contents: write
+  issues: write   # recap notifications
+
+concurrency:
+  group: update-calendars
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -17,8 +24,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Build calendars
+      - name: Build calendars and post recaps
         run: python build_calendars.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Keep schedule alive (GitHub pauses cron after 60 days without commits)
         run: |
           month=$(date -u +%Y-%m)
@@ -27,5 +36,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add calendars .keepalive
+          git add calendars .keepalive recaps.json
           git diff --cached --quiet || (git commit -m "Update calendars $(date -u +%F)" && git push)
