@@ -15,19 +15,19 @@ A GitHub Action rebuilds them daily: final scores go into event titles, flexed k
 1. Create an empty **public** repo named `nfl-calendars` on GitHub, then from this folder:
    ```bash
    git init -b main && git add . && git commit -m "NFL calendars"
-   git remote add origin https://github.com/<you>/nfl-calendars.git
+   git remote add origin https://github.com/kusooo/nfl-calendars.git
    git push -u origin main
    ```
 2. On GitHub: **Actions → Update NFL calendars → Run workflow** (and enable Actions if prompted).
 
 ## Subscribe
 
-Use these URLs (replace `<you>`):
+Use these URLs (replace `kusooo`):
 
 ```
-https://raw.githubusercontent.com/<you>/nfl-calendars/main/calendars/eagles.ics
-https://raw.githubusercontent.com/<you>/nfl-calendars/main/calendars/texans.ics
-https://raw.githubusercontent.com/<you>/nfl-calendars/main/calendars/playoffs.ics
+https://raw.githubusercontent.com/kusooo/nfl-calendars/main/calendars/eagles.ics
+https://raw.githubusercontent.com/kusooo/nfl-calendars/main/calendars/texans.ics
+https://raw.githubusercontent.com/kusooo/nfl-calendars/main/calendars/playoffs.ics
 ```
 
 - **Google Calendar:** Other calendars → **+** → From URL. (Google refreshes subscribed feeds every 12–24 h.)
