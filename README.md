@@ -8,7 +8,7 @@ Auto-updating `.ics` calendars built from ESPN's public schedule API:
 | Houston Texans (regular season + playoffs) | `calendars/texans.ics` |
 | NFL Playoffs + Super Bowl | `calendars/playoffs.ics` |
 
-A GitHub Action rebuilds them daily: final scores go into event titles, flexed kickoff times update, playoff matchups fill in as they're set, and the season rolls over every March automatically. Games without a set kickoff show as all-day "time TBD" events.
+A GitHub Action rebuilds them daily: final scores go into event titles, flexed kickoff times update, playoff matchups fill in as they're set, and the season rolls over every March automatically. Each calendar keeps the previous season too, so nothing disappears between the rollover and the May schedule release. Games without a set kickoff show as all-day "time TBD" events.
 
 ## Setup
 

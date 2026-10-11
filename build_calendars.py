@@ -172,17 +172,29 @@ def main(argv=None):
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
 
-    playoffs = postseason_events(args.season)
-    print(f"season {args.season}: {len(playoffs)} postseason games")
-    (out / "playoffs.ics").write_bytes(build_ics(f"NFL Playoffs {args.season}", playoffs).encode("utf-8"))
+    # Include the previous season too, so games don't vanish between the March
+    # rollover and the schedule release in May.
+    seasons = (args.season - 1, args.season)
+
+    playoffs = dedupe(e for s in seasons for e in postseason_events(s))
+    print(f"seasons {seasons}: {len(playoffs)} postseason games")
+    (out / "playoffs.ics").write_bytes(build_ics("NFL Playoffs", playoffs).encode("utf-8"))
 
     for slug, (team_id, _abbr_, name) in TEAMS.items():
-        games = team_regular_season(team_id, args.season)
-        if not games:
-            print(f"warning: no regular-season games for {name}", file=sys.stderr)
-        games += [e for e in playoffs if involves(e, team_id)]
+        current = team_regular_season(team_id, args.season)
+        if not current:
+            print(f"note: no {args.season} regular-season games for {name} yet", file=sys.stderr)
+        games = team_regular_season(team_id, args.season - 1) + current
+        games = dedupe(games + [e for e in playoffs if involves(e, team_id)])
         (out / f"{slug}.ics").write_bytes(build_ics(name, games).encode("utf-8"))
         print(f"{slug}: {len(games)} games")
+
+
+def dedupe(events):
+    seen = {}
+    for e in events:
+        seen[e["id"]] = e
+    return list(seen.values())
 
 
 if __name__ == "__main__":
