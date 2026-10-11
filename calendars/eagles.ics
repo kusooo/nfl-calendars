@@ -264,7 +264,7 @@ DTSTART:20261011T133000Z
 DTEND:20261011T170000Z
 SUMMARY:PHI @ JAX
 DESCRIPTION:Philadelphia Eagles at Jacksonville Jaguars\nWeek 5\nNFL London
-  Games\nTV: NFL Net\nLine: JAX -7.5\, O/U 41.5\nRecords: PHI 2-2\, JAX 3-1
+  Games\nTV: NFL Net\nRecords: PHI 2-2\, JAX 3-1
 LOCATION:Tottenham Hotspur Stadium\, London\, England
 END:VEVENT
 BEGIN:VEVENT
@@ -273,8 +273,8 @@ DTSTAMP:20261018T170000Z
 DTSTART:20261018T170000Z
 DTEND:20261018T203000Z
 SUMMARY:CAR @ PHI
-DESCRIPTION:Carolina Panthers at Philadelphia Eagles\nWeek 6\nTV: CBS\nLine
- : PHI -2.5\, O/U 43.5\nRecords: CAR 2-2\, PHI 2-2
+DESCRIPTION:Carolina Panthers at Philadelphia Eagles\nWeek 6\nTV: CBS\nReco
+ rds: CAR 2-2\, PHI 2-2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT

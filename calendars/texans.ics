@@ -274,7 +274,7 @@ DTSTART:20261011T170000Z
 DTEND:20261011T203000Z
 SUMMARY:HOU @ TEN
 DESCRIPTION:Houston Texans at Tennessee Titans\nWeek 5\nDivision game (AFC 
- South)\nTV: CBS\nLine: HOU -7\, O/U 37.5\nRecords: HOU 0-4\, TEN 0-4
+ South)\nTV: CBS\nLine: HOU -6.5\, O/U 37.5\nRecords: HOU 0-4\, TEN 0-4
 LOCATION:Nissan Stadium\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -284,8 +284,7 @@ DTSTART:20261018T133000Z
 DTEND:20261018T170000Z
 SUMMARY:HOU @ JAX
 DESCRIPTION:Houston Texans at Jacksonville Jaguars\nWeek 6\nNFL London Game
- s\nDivision game (AFC South)\nTV: NFL Net\nLine: JAX -3\, O/U 43.5\nRecord
- s: HOU 0-4\, JAX 3-1
+ s\nDivision game (AFC South)\nTV: NFL Net\nRecords: HOU 0-4\, JAX 3-1
 LOCATION:Wembley Stadium\, London\, England
 END:VEVENT
 BEGIN:VEVENT
