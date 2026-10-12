@@ -622,9 +622,8 @@ UID:espn-401872993@nfl-calendars
 DTSTAMP:20261012T002000Z
 DTSTART:20261012T002000Z
 DTEND:20261012T035000Z
-SUMMARY:BAL @ ATL
-DESCRIPTION:Baltimore Ravens at Atlanta Falcons\nWeek 5\nTV: NBC\nRecords: 
- BAL 3-1\, ATL 2-2
+SUMMARY:BAL 30 @ ATL 23 (Final)
+DESCRIPTION:Baltimore Ravens at Atlanta Falcons\nWeek 5\nTV: NBC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
@@ -634,7 +633,7 @@ DTSTART:20261013T001500Z
 DTEND:20261013T034500Z
 SUMMARY:BUF @ LAR
 DESCRIPTION:Buffalo Bills at Los Angeles Rams\nWeek 5\nTV: ESPN\, ABC\nLine
- : LAR -3.5\, O/U 54.5\nRecords: BUF 3-1\, LAR 2-2
+ : LAR -3\, O/U 54.5\nRecords: BUF 3-1\, LAR 2-2
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +643,7 @@ DTSTART:20261016T001500Z
 DTEND:20261016T034500Z
 SUMMARY:SEA @ DEN
 DESCRIPTION:Seattle Seahawks at Denver Broncos\nWeek 6\nTV: Prime Video\nLi
- ne: SEA -2.5\, O/U 42.5\nRecords: SEA 3-2\, DEN 3-2
+ ne: SEA -3\, O/U 41.5\nRecords: SEA 3-2\, DEN 3-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -714,7 +713,7 @@ DTSTART:20261106T011500Z
 DTEND:20261106T044500Z
 SUMMARY:JAX @ BAL
 DESCRIPTION:Jacksonville Jaguars at Baltimore Ravens\nWeek 9\nTV: Prime Vid
- eo\nRecords: JAX 4-1\, BAL 3-1
+ eo\nRecords: JAX 4-1\, BAL 4-1
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -764,7 +763,7 @@ DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
 SUMMARY:LAC @ BAL
 DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nRe
- cords: LAC 0-5\, BAL 3-1
+ cords: LAC 0-5\, BAL 4-1
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -964,7 +963,7 @@ DTSTART:20270101T011500Z
 DTEND:20270101T044500Z
 SUMMARY:BAL @ CIN
 DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nDivision game 
- (AFC North)\nTV: Prime Video\nRecords: BAL 3-1\, CIN 3-2
+ (AFC North)\nTV: Prime Video\nRecords: BAL 4-1\, CIN 3-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
