@@ -631,9 +631,8 @@ UID:espn-401872994@nfl-calendars
 DTSTAMP:20261013T001500Z
 DTSTART:20261013T001500Z
 DTEND:20261013T034500Z
-SUMMARY:BUF @ LAR
-DESCRIPTION:Buffalo Bills at Los Angeles Rams\nWeek 5\nTV: ESPN\, ABC\nLine
- : LAR -3.5\, O/U 54.5\nRecords: BUF 3-1\, LAR 2-2
+SUMMARY:BUF 37 @ LAR 34 (Final)
+DESCRIPTION:Buffalo Bills at Los Angeles Rams\nWeek 5\nTV: ESPN\, ABC
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -643,7 +642,7 @@ DTSTART:20261016T001500Z
 DTEND:20261016T034500Z
 SUMMARY:SEA @ DEN
 DESCRIPTION:Seattle Seahawks at Denver Broncos\nWeek 6\nTV: Prime Video\nLi
- ne: SEA -3\, O/U 40.5\nRecords: SEA 3-2\, DEN 3-2
+ ne: SEA -2.5\, O/U 40.5\nRecords: SEA 3-2\, DEN 3-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -733,7 +732,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nRec
- ords: BUF 3-1\, MIN 5-0
+ ords: BUF 4-1\, MIN 5-0
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +782,7 @@ DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
 DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nRe
- cords: GB 3-2\, LAR 2-2
+ cords: GB 3-2\, LAR 2-3
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -793,7 +792,7 @@ DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
 SUMMARY:KC @ BUF
 DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
- ills rivalry\nTV: NBC\nRecords: KC 4-0\, BUF 3-1
+ ills rivalry\nTV: NBC\nRecords: KC 4-0\, BUF 4-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -823,7 +822,7 @@ DTSTART:20261204T011500Z
 DTEND:20261204T044500Z
 SUMMARY:KC @ LAR
 DESCRIPTION:Kansas City Chiefs at Los Angeles Rams\nWeek 13\nTV: Prime Vide
- o\nRecords: KC 4-0\, LAR 2-2
+ o\nRecords: KC 4-0\, LAR 2-3
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -853,7 +852,7 @@ DTSTART:20261214T012000Z
 DTEND:20261214T045000Z
 SUMMARY:BUF @ GB
 DESCRIPTION:Buffalo Bills at Green Bay Packers\nWeek 14\nTV: NBC\nRecords: 
- BUF 3-1\, GB 3-2
+ BUF 4-1\, GB 3-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -883,7 +882,7 @@ DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
 SUMMARY:CHI @ BUF
 DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
- 3-2\, BUF 3-1
+ 3-2\, BUF 4-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -923,7 +922,7 @@ DTSTART:20261225T213000Z
 DTEND:20261226T010000Z
 SUMMARY:BUF @ DEN
 DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix\nRecords:
-  BUF 3-1\, DEN 3-2
+  BUF 4-1\, DEN 3-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -933,7 +932,7 @@ DTSTART:20261226T011500Z
 DTEND:20261226T044500Z
 SUMMARY:LAR @ SEA
 DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nDivision game (N
- FC West)\nTV: Fox\nRecords: LAR 2-2\, SEA 3-2
+ FC West)\nTV: Fox\nRecords: LAR 2-3\, SEA 3-2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
