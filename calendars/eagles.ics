@@ -275,7 +275,7 @@ DTSTART:20261018T170000Z
 DTEND:20261018T203000Z
 SUMMARY:CAR @ PHI
 DESCRIPTION:Carolina Panthers at Philadelphia Eagles\nWeek 6\nTV: CBS\nLine
- : PHI -1.5\, O/U 41.5\nRecords: CAR 2-2\, PHI 2-3
+ : CAR -1.5\, O/U 40.5\nRecords: CAR 2-2\, PHI 2-3
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -285,7 +285,8 @@ DTSTART:20261027T001500Z
 DTEND:20261027T034500Z
 SUMMARY:DAL @ PHI
 DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nDivision game (N
- FC East)\nTV: ESPN\, ABC\, Disney+\nRecords: DAL 2-3\, PHI 2-3
+ FC East)\nTV: ESPN\, ABC\, Disney+\nLine: PHI -1.5\, O/U 47.5\nRecords: DA
+ L 2-3\, PHI 2-3
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT

@@ -642,7 +642,7 @@ DTSTART:20261016T001500Z
 DTEND:20261016T034500Z
 SUMMARY:SEA @ DEN
 DESCRIPTION:Seattle Seahawks at Denver Broncos\nWeek 6\nTV: Prime Video\nLi
- ne: SEA -3\, O/U 40.5\nRecords: SEA 3-2\, DEN 3-2
+ ne: SEA -2.5\, O/U 40.5\nRecords: SEA 3-2\, DEN 3-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -652,7 +652,7 @@ DTSTART:20261019T002000Z
 DTEND:20261019T035000Z
 SUMMARY:DAL @ GB
 DESCRIPTION:Dallas Cowboys at Green Bay Packers\nWeek 6\nTV: NBC\nLine: GB 
- -1.5\, O/U 52.5\nRecords: DAL 2-3\, GB 3-2
+ -1.5\, O/U 53.5\nRecords: DAL 2-3\, GB 3-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -672,7 +672,7 @@ DTSTART:20261023T001500Z
 DTEND:20261023T034500Z
 SUMMARY:NE @ CHI
 DESCRIPTION:New England Patriots at Chicago Bears\nWeek 7\nTV: Prime Video\
- nRecords: NE 3-2\, CHI 3-2
+ nLine: CHI -1.5\, O/U 48.5\nRecords: NE 3-2\, CHI 3-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -681,8 +681,8 @@ DTSTAMP:20261026T002000Z
 DTSTART:20261026T002000Z
 DTEND:20261026T035000Z
 SUMMARY:KC @ SEA
-DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC\nRecord
- s: KC 4-0\, SEA 3-2
+DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC\nLine: 
+ SEA -2.5\, O/U 44.5\nRecords: KC 4-0\, SEA 3-2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
