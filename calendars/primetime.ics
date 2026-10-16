@@ -640,9 +640,8 @@ UID:espn-401872995@nfl-calendars
 DTSTAMP:20261016T001500Z
 DTSTART:20261016T001500Z
 DTEND:20261016T034500Z
-SUMMARY:SEA @ DEN
-DESCRIPTION:Seattle Seahawks at Denver Broncos\nWeek 6\nTV: Prime Video\nLi
- ne: SEA -2.5\, O/U 40.5\nRecords: SEA 3-2\, DEN 3-2
+SUMMARY:SEA 14 @ DEN 17 (Final)
+DESCRIPTION:Seattle Seahawks at Denver Broncos\nWeek 6\nTV: Prime Video
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -662,7 +661,7 @@ DTSTART:20261020T001500Z
 DTEND:20261020T034500Z
 SUMMARY:WSH @ SF
 DESCRIPTION:Washington Commanders at San Francisco 49ers\nWeek 6\nTV: ESPN\
- , ABC\nLine: SF -7.5\, O/U 50.5\nRecords: WSH 1-3-1\, SF 5-0
+ , ABC\nLine: SF -7.5\, O/U 51.5\nRecords: WSH 1-3-1\, SF 5-0
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -681,8 +680,8 @@ DTSTAMP:20261026T002000Z
 DTSTART:20261026T002000Z
 DTEND:20261026T035000Z
 SUMMARY:KC @ SEA
-DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC\nLine: 
- SEA -2.5\, O/U 44.5\nRecords: KC 4-0\, SEA 3-2
+DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC\nRecord
+ s: KC 4-0\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -702,7 +701,7 @@ DTSTART:20261103T011500Z
 DTEND:20261103T044500Z
 SUMMARY:CHI @ SEA
 DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nRecords: C
- HI 3-2\, SEA 3-2
+ HI 3-2\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -832,7 +831,7 @@ DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
 SUMMARY:DAL @ SEA
 DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nRe
- cords: DAL 2-3\, SEA 3-2
+ cords: DAL 2-3\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -922,7 +921,7 @@ DTSTART:20261225T213000Z
 DTEND:20261226T010000Z
 SUMMARY:BUF @ DEN
 DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix\nRecords:
-  BUF 4-1\, DEN 3-2
+  BUF 4-1\, DEN 4-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -932,7 +931,7 @@ DTSTART:20261226T011500Z
 DTEND:20261226T044500Z
 SUMMARY:LAR @ SEA
 DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nDivision game (N
- FC West)\nTV: Fox\nRecords: LAR 2-3\, SEA 3-2
+ FC West)\nTV: Fox\nRecords: LAR 2-3\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
