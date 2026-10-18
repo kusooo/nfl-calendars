@@ -285,8 +285,7 @@ DTSTART:20261018T133000Z
 DTEND:20261018T170000Z
 SUMMARY:HOU @ JAX
 DESCRIPTION:Houston Texans at Jacksonville Jaguars\nWeek 6\nNFL London Game
- s\nDivision game (AFC South)\nTV: NFL Net\nLine: JAX -2.5\, O/U 42.5\nReco
- rds: HOU 1-4\, JAX 4-1
+ s\nDivision game (AFC South)\nTV: NFL Net\nRecords: HOU 1-4\, JAX 4-1
 LOCATION:Wembley Stadium\, London\, England
 END:VEVENT
 BEGIN:VEVENT
@@ -295,8 +294,8 @@ DTSTAMP:20261025T170000Z
 DTSTART:20261025T170000Z
 DTEND:20261025T203000Z
 SUMMARY:NYG @ HOU
-DESCRIPTION:New York Giants at Houston Texans\nWeek 7\nTV: Fox\nLine: HOU -
- 7\, O/U 41.5\nRecords: NYG 3-1-1\, HOU 1-4
+DESCRIPTION:New York Giants at Houston Texans\nWeek 7\nTV: Fox\nRecords: NY
+ G 3-1-1\, HOU 1-4
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
