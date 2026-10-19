@@ -286,8 +286,8 @@ DTSTART:20261027T001500Z
 DTEND:20261027T034500Z
 SUMMARY:DAL @ PHI
 DESCRIPTION:Dallas Cowboys at Philadelphia Eagles\nWeek 7\nDivision game (N
- FC East)\nTV: ESPN\, ABC\, Disney+\nLine: DAL -5.5\, O/U 44.5\nRecords: DA
- L 2-3\, PHI 2-4
+ FC East)\nTV: ESPN\, ABC\, Disney+\nLine: DAL -4.5\, O/U 44.5\nRecords: DA
+ L 2-4\, PHI 2-4
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -335,7 +335,7 @@ DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
 SUMMARY:PHI @ DAL
 DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nDivision game (
- NFC East)\nTV: Fox\nRecords: PHI 2-4\, DAL 2-3
+ NFC East)\nTV: Fox\nRecords: PHI 2-4\, DAL 2-4
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT

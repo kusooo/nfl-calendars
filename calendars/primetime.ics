@@ -649,9 +649,8 @@ UID:espn-401873007@nfl-calendars
 DTSTAMP:20261019T002000Z
 DTSTART:20261019T002000Z
 DTEND:20261019T035000Z
-SUMMARY:DAL @ GB
-DESCRIPTION:Dallas Cowboys at Green Bay Packers\nWeek 6\nTV: NBC\nLine: DAL
-  -1.5\, O/U 53.5\nRecords: DAL 2-3\, GB 3-2
+SUMMARY:DAL 13 @ GB 23 (Final)
+DESCRIPTION:Dallas Cowboys at Green Bay Packers\nWeek 6\nTV: NBC
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -681,7 +680,7 @@ DTSTART:20261026T002000Z
 DTEND:20261026T035000Z
 SUMMARY:KC @ SEA
 DESCRIPTION:Kansas City Chiefs at Seattle Seahawks\nWeek 7\nTV: NBC\nLine: 
- SEA -1.5\, O/U 42.5\nRecords: KC 4-0\, SEA 3-3
+ SEA -2.5\, O/U 42.5\nRecords: KC 5-0\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -691,7 +690,7 @@ DTSTART:20261030T001500Z
 DTEND:20261030T034500Z
 SUMMARY:CAR @ GB
 DESCRIPTION:Carolina Panthers at Green Bay Packers\nWeek 8\nTV: Prime Video
- \nRecords: CAR 3-2\, GB 3-2
+ \nRecords: CAR 3-2\, GB 4-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -731,7 +730,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nRec
- ords: BUF 4-1\, MIN 5-0
+ ords: BUF 5-1\, MIN 5-0
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -761,7 +760,7 @@ DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
 SUMMARY:LAC @ BAL
 DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nRe
- cords: LAC 0-5\, BAL 4-2
+ cords: LAC 0-6\, BAL 4-2
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -781,7 +780,7 @@ DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
 DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nRe
- cords: GB 3-2\, LAR 2-4
+ cords: GB 4-2\, LAR 2-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -791,7 +790,7 @@ DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
 SUMMARY:KC @ BUF
 DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
- ills rivalry\nTV: NBC\nRecords: KC 4-0\, BUF 4-1
+ ills rivalry\nTV: NBC\nRecords: KC 5-0\, BUF 5-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -801,7 +800,7 @@ DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:NE @ LAC
 DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC\
- nRecords: NE 4-2\, LAC 0-5
+ nRecords: NE 4-2\, LAC 0-6
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -821,7 +820,7 @@ DTSTART:20261204T011500Z
 DTEND:20261204T044500Z
 SUMMARY:KC @ LAR
 DESCRIPTION:Kansas City Chiefs at Los Angeles Rams\nWeek 13\nTV: Prime Vide
- o\nRecords: KC 4-0\, LAR 2-4
+ o\nRecords: KC 5-0\, LAR 2-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +830,7 @@ DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
 SUMMARY:DAL @ SEA
 DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nRe
- cords: DAL 2-3\, SEA 3-3
+ cords: DAL 2-4\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -851,7 +850,7 @@ DTSTART:20261214T012000Z
 DTEND:20261214T045000Z
 SUMMARY:BUF @ GB
 DESCRIPTION:Buffalo Bills at Green Bay Packers\nWeek 14\nTV: NBC\nRecords: 
- BUF 4-1\, GB 3-2
+ BUF 5-1\, GB 4-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -871,7 +870,7 @@ DTSTART:20261218T011500Z
 DTEND:20261218T044500Z
 SUMMARY:SF @ LAC
 DESCRIPTION:San Francisco 49ers at Los Angeles Chargers\nWeek 15\nTV: Prime
-  Video\nRecords: SF 5-0\, LAC 0-5
+  Video\nRecords: SF 5-0\, LAC 0-6
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -881,7 +880,7 @@ DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
 SUMMARY:CHI @ BUF
 DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
- 4-2\, BUF 4-1
+ 4-2\, BUF 5-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -901,7 +900,7 @@ DTSTART:20261222T011500Z
 DTEND:20261222T044500Z
 SUMMARY:NE @ KC
 DESCRIPTION:New England Patriots at Kansas City Chiefs\nWeek 15\nTV: ESPN\,
-  ABC\nRecords: NE 4-2\, KC 4-0
+  ABC\nRecords: NE 4-2\, KC 5-0
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -911,7 +910,7 @@ DTSTART:20261225T180000Z
 DTEND:20261225T213000Z
 SUMMARY:GB @ CHI
 DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
-  North)\nTV: Netflix\nRecords: GB 3-2\, CHI 4-2
+  North)\nTV: Netflix\nRecords: GB 4-2\, CHI 4-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -921,7 +920,7 @@ DTSTART:20261225T213000Z
 DTEND:20261226T010000Z
 SUMMARY:BUF @ DEN
 DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix\nRecords:
-  BUF 4-1\, DEN 4-2
+  BUF 5-1\, DEN 4-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -941,7 +940,7 @@ DTSTART:20261228T012000Z
 DTEND:20261228T045000Z
 SUMMARY:JAX @ DAL
 DESCRIPTION:Jacksonville Jaguars at Dallas Cowboys\nWeek 16\nTV: NBC\nRecor
- ds: JAX 4-2\, DAL 2-3
+ ds: JAX 4-2\, DAL 2-4
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
