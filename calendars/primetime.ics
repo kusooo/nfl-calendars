@@ -658,9 +658,9 @@ UID:espn-401873008@nfl-calendars
 DTSTAMP:20261020T001500Z
 DTSTART:20261020T001500Z
 DTEND:20261020T034500Z
-SUMMARY:WSH @ SF
+SUMMARY:WSH 17 @ SF 23 (Final)
 DESCRIPTION:Washington Commanders at San Francisco 49ers\nWeek 6\nTV: ESPN\
- , ABC\nLine: SF -7.5\, O/U 51.5\nRecords: WSH 1-3-1\, SF 5-0
+ , ABC
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -670,7 +670,7 @@ DTSTART:20261023T001500Z
 DTEND:20261023T034500Z
 SUMMARY:NE @ CHI
 DESCRIPTION:New England Patriots at Chicago Bears\nWeek 7\nTV: Prime Video\
- nLine: CHI -3\, O/U 49.5\nRecords: NE 4-2\, CHI 4-2
+ nLine: CHI -3\, O/U 50.5\nRecords: NE 4-2\, CHI 4-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -740,7 +740,7 @@ DTSTART:20261113T011500Z
 DTEND:20261113T044500Z
 SUMMARY:WSH @ NYG
 DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nDivision gam
- e (NFC East)\nTV: Prime Video\nRecords: WSH 1-3-1\, NYG 3-2-1
+ e (NFC East)\nTV: Prime Video\nRecords: WSH 1-4-1\, NYG 3-2-1
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -770,7 +770,7 @@ DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
 SUMMARY:CIN @ WSH
 DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN\
- nRecords: CIN 3-2\, WSH 1-3-1
+ nRecords: CIN 3-2\, WSH 1-4-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -870,7 +870,7 @@ DTSTART:20261218T011500Z
 DTEND:20261218T044500Z
 SUMMARY:SF @ LAC
 DESCRIPTION:San Francisco 49ers at Los Angeles Chargers\nWeek 15\nTV: Prime
-  Video\nRecords: SF 5-0\, LAC 0-6
+  Video\nRecords: SF 6-0\, LAC 0-6
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
