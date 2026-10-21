@@ -690,7 +690,7 @@ DTSTART:20261030T001500Z
 DTEND:20261030T034500Z
 SUMMARY:CAR @ GB
 DESCRIPTION:Carolina Panthers at Green Bay Packers\nWeek 8\nTV: Prime Video
- \nRecords: CAR 3-2\, GB 4-2
+ \nLine: GB -3\, O/U 47.5\nRecords: CAR 3-2\, GB 4-2
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -699,8 +699,8 @@ DTSTAMP:20261103T011500Z
 DTSTART:20261103T011500Z
 DTEND:20261103T044500Z
 SUMMARY:CHI @ SEA
-DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nRecords: C
- HI 4-2\, SEA 3-3
+DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nLine: SEA 
+ -3\, O/U 46.5\nRecords: CHI 4-2\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

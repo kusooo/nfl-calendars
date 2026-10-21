@@ -297,7 +297,8 @@ DTSTART:20261102T012000Z
 DTEND:20261102T045000Z
 SUMMARY:PHI @ WSH
 DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nDivision 
- game (NFC East)\nTV: NBC\nRecords: PHI 2-4\, WSH 1-4-1
+ game (NFC East)\nTV: NBC\nLine: WSH -3.5\, O/U 41.5\nRecords: PHI 2-4\, WS
+ H 1-4-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
