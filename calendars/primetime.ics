@@ -668,9 +668,8 @@ UID:espn-401873010@nfl-calendars
 DTSTAMP:20261023T001500Z
 DTSTART:20261023T001500Z
 DTEND:20261023T034500Z
-SUMMARY:NE @ CHI
-DESCRIPTION:New England Patriots at Chicago Bears\nWeek 7\nTV: Prime Video\
- nLine: CHI -3\, O/U 50.5\nRecords: NE 4-2\, CHI 4-2
+SUMMARY:NE 24 @ CHI 30 (Final)
+DESCRIPTION:New England Patriots at Chicago Bears\nWeek 7\nTV: Prime Video
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -700,7 +699,7 @@ DTSTART:20261103T011500Z
 DTEND:20261103T044500Z
 SUMMARY:CHI @ SEA
 DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nLine: SEA 
- -3\, O/U 46.5\nRecords: CHI 4-2\, SEA 3-3
+ -3\, O/U 46.5\nRecords: CHI 5-2\, SEA 3-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -720,7 +719,7 @@ DTSTART:20261109T012000Z
 DTEND:20261109T045000Z
 SUMMARY:TB @ CHI
 DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC\nRecords
- : TB 1-5\, CHI 4-2
+ : TB 1-5\, CHI 5-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -800,7 +799,7 @@ DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:NE @ LAC
 DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC\
- nRecords: NE 4-2\, LAC 0-6
+ nRecords: NE 4-3\, LAC 0-6
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -840,7 +839,7 @@ DTSTART:20261211T011500Z
 DTEND:20261211T044500Z
 SUMMARY:MIN @ NE
 DESCRIPTION:Minnesota Vikings at New England Patriots\nWeek 14\nTV: Prime V
- ideo\nRecords: MIN 5-0\, NE 4-2
+ ideo\nRecords: MIN 5-0\, NE 4-3
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -880,7 +879,7 @@ DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
 SUMMARY:CHI @ BUF
 DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
- 4-2\, BUF 5-1
+ 5-2\, BUF 5-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -900,7 +899,7 @@ DTSTART:20261222T011500Z
 DTEND:20261222T044500Z
 SUMMARY:NE @ KC
 DESCRIPTION:New England Patriots at Kansas City Chiefs\nWeek 15\nTV: ESPN\,
-  ABC\nRecords: NE 4-2\, KC 5-0
+  ABC\nRecords: NE 4-3\, KC 5-0
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -910,7 +909,7 @@ DTSTART:20261225T180000Z
 DTEND:20261225T213000Z
 SUMMARY:GB @ CHI
 DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
-  North)\nTV: Netflix\nRecords: GB 4-2\, CHI 4-2
+  North)\nTV: Netflix\nRecords: GB 4-2\, CHI 5-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
