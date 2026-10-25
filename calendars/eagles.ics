@@ -297,8 +297,7 @@ DTSTART:20261102T012000Z
 DTEND:20261102T045000Z
 SUMMARY:PHI @ WSH
 DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nDivision 
- game (NFC East)\nTV: NBC\nLine: WSH -3.5\, O/U 41.5\nRecords: PHI 2-4\, WS
- H 1-4-1
+ game (NFC East)\nTV: NBC\nRecords: PHI 2-4\, WSH 1-4-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -308,7 +307,7 @@ DTSTART:20261108T180000Z
 DTEND:20261108T213000Z
 SUMMARY:NYG @ PHI
 DESCRIPTION:New York Giants at Philadelphia Eagles\nWeek 9\nDivision game (
- NFC East)\nTV: Fox\nRecords: NYG 3-2-1\, PHI 2-4
+ NFC East)\nTV: Fox\nRecords: NYG 4-2-1\, PHI 2-4
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -326,7 +325,7 @@ DTSTART:20261122T212500Z
 DTEND:20261123T005500Z
 SUMMARY:PIT @ PHI
 DESCRIPTION:Pittsburgh Steelers at Philadelphia Eagles\nWeek 11\nRivalry: B
- attle of Pennsylvania\nTV: CBS\nRecords: PIT 4-2\, PHI 2-4
+ attle of Pennsylvania\nTV: CBS\nRecords: PIT 5-2\, PHI 2-4
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -356,7 +355,7 @@ DTSTART:20261213T180000Z
 DTEND:20261213T213000Z
 SUMMARY:IND @ PHI
 DESCRIPTION:Indianapolis Colts at Philadelphia Eagles\nWeek 14\nTV: Fox\nRe
- cords: IND 2-4\, PHI 2-4
+ cords: IND 2-5\, PHI 2-4
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -376,7 +375,7 @@ DTSTART:20261225T011500Z
 DTEND:20261225T044500Z
 SUMMARY:HOU @ PHI
 DESCRIPTION:Houston Texans at Philadelphia Eagles\nWeek 16\nTV: Prime Video
- \nRecords: HOU 2-4\, PHI 2-4
+ \nRecords: HOU 2-5\, PHI 2-4
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -386,7 +385,7 @@ DTSTART:20270104T012000Z
 DTEND:20270104T045000Z
 SUMMARY:PHI @ SF
 DESCRIPTION:Philadelphia Eagles at San Francisco 49ers\nWeek 17\nTV: NBC\nR
- ecords: PHI 2-4\, SF 6-0
+ ecords: PHI 2-4\, SF 6-1
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -396,7 +395,7 @@ DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:PHI @ NYG (time TBD)
 DESCRIPTION:Philadelphia Eagles at New York Giants\nWeek 18\nFlex Game: 1/9
-  or 1/10\nDivision game (NFC East)\nRecords: PHI 2-4\, NYG 3-2-1\nKickoff 
+  or 1/10\nDivision game (NFC East)\nRecords: PHI 2-4\, NYG 4-2-1\nKickoff 
  time TBD
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
