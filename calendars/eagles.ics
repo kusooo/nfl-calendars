@@ -297,7 +297,8 @@ DTSTART:20261102T012000Z
 DTEND:20261102T045000Z
 SUMMARY:PHI @ WSH
 DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nDivision 
- game (NFC East)\nTV: NBC\nRecords: PHI 2-4\, WSH 1-4-1
+ game (NFC East)\nTV: NBC\nLine: WSH -3.5\, O/U 40.5\nRecords: PHI 2-4\, WS
+ H 1-4-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -345,7 +346,7 @@ DTSTART:20261206T210500Z
 DTEND:20261207T003500Z
 SUMMARY:PHI @ ARI
 DESCRIPTION:Philadelphia Eagles at Arizona Cardinals\nWeek 13\nTV: Fox\nRec
- ords: PHI 2-4\, ARI 2-4
+ ords: PHI 2-4\, ARI 2-5
 LOCATION:State Farm Stadium\, Glendale\, AZ
 END:VEVENT
 BEGIN:VEVENT
@@ -365,7 +366,7 @@ DTSTART:20261219T220000Z
 DTEND:20261220T013000Z
 SUMMARY:SEA @ PHI
 DESCRIPTION:Seattle Seahawks at Philadelphia Eagles\nWeek 15\nTV: Fox\nReco
- rds: SEA 3-3\, PHI 2-4
+ rds: SEA 4-3\, PHI 2-4
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
