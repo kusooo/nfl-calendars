@@ -298,7 +298,7 @@ DTSTART:20261102T012000Z
 DTEND:20261102T045000Z
 SUMMARY:PHI @ WSH
 DESCRIPTION:Philadelphia Eagles at Washington Commanders\nWeek 8\nDivision 
- game (NFC East)\nTV: NBC\nLine: WSH -4.5\, O/U 40.5\nRecords: PHI 2-5\, WS
+ game (NFC East)\nTV: NBC\nLine: WSH -5.5\, O/U 40.5\nRecords: PHI 2-5\, WS
  H 1-4-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
@@ -309,7 +309,8 @@ DTSTART:20261108T180000Z
 DTEND:20261108T213000Z
 SUMMARY:NYG @ PHI
 DESCRIPTION:New York Giants at Philadelphia Eagles\nWeek 9\nDivision game (
- NFC East)\nTV: Fox\nRecords: NYG 4-2-1\, PHI 2-5
+ NFC East)\nTV: Fox\nLine: NYG -1.5\, O/U 40.5\nRecords: NYG 4-2-1\, PHI 2-
+ 5
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
