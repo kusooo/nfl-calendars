@@ -688,7 +688,7 @@ DTSTART:20261030T001500Z
 DTEND:20261030T034500Z
 SUMMARY:CAR @ GB
 DESCRIPTION:Carolina Panthers at Green Bay Packers\nWeek 8\nTV: Prime Video
- \nLine: GB -3.5\, O/U 47.5\nRecords: CAR 3-3\, GB 4-3
+ \nLine: GB -3.5\, O/U 46.5\nRecords: CAR 3-3\, GB 4-3
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -708,7 +708,7 @@ DTSTART:20261106T011500Z
 DTEND:20261106T044500Z
 SUMMARY:JAX @ BAL
 DESCRIPTION:Jacksonville Jaguars at Baltimore Ravens\nWeek 9\nTV: Prime Vid
- eo\nLine: BAL -2.5\, O/U 48.5\nRecords: JAX 4-2\, BAL 4-3
+ eo\nLine: BAL -3\, O/U 48.5\nRecords: JAX 4-2\, BAL 4-3
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
