@@ -697,7 +697,7 @@ DTSTART:20261103T011500Z
 DTEND:20261103T044500Z
 SUMMARY:CHI @ SEA
 DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nLine: SEA 
- -3\, O/U 46.5\nRecords: CHI 5-2\, SEA 4-3
+ -3.5\, O/U 46.5\nRecords: CHI 5-2\, SEA 4-3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +707,7 @@ DTSTART:20261106T011500Z
 DTEND:20261106T044500Z
 SUMMARY:JAX @ BAL
 DESCRIPTION:Jacksonville Jaguars at Baltimore Ravens\nWeek 9\nTV: Prime Vid
- eo\nLine: JAX -8.5\, O/U 43.5\nRecords: JAX 5-2\, BAL 4-4
+ eo\nLine: JAX -8.5\, O/U 42.5\nRecords: JAX 5-2\, BAL 4-4
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -727,7 +727,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nLin
- e: BUF -2.5\, O/U 46.5\nRecords: BUF 6-1\, MIN 6-1
+ e: BUF -3.5\, O/U 46.5\nRecords: BUF 6-1\, MIN 6-1
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
