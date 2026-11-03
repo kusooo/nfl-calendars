@@ -695,9 +695,8 @@ UID:espn-401873036@nfl-calendars
 DTSTAMP:20261103T011500Z
 DTSTART:20261103T011500Z
 DTEND:20261103T044500Z
-SUMMARY:CHI @ SEA
-DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN\nLine: SEA 
- -3.5\, O/U 46.5\nRecords: CHI 5-2\, SEA 4-3
+SUMMARY:CHI 34 @ SEA 17 (Final)
+DESCRIPTION:Chicago Bears at Seattle Seahawks\nWeek 8\nTV: ESPN
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -717,7 +716,7 @@ DTSTART:20261109T012000Z
 DTEND:20261109T045000Z
 SUMMARY:TB @ CHI
 DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC\nLine: C
- HI -5.5\, O/U 47.5\nRecords: TB 3-5\, CHI 5-2
+ HI -6\, O/U 46.5\nRecords: TB 3-5\, CHI 6-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -727,7 +726,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nLin
- e: BUF -3.5\, O/U 46.5\nRecords: BUF 6-1\, MIN 6-1
+ e: BUF -3.5\, O/U 45.5\nRecords: BUF 6-1\, MIN 6-1
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -827,7 +826,7 @@ DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
 SUMMARY:DAL @ SEA
 DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nRe
- cords: DAL 3-5\, SEA 4-3
+ cords: DAL 3-5\, SEA 4-4
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -877,7 +876,7 @@ DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
 SUMMARY:CHI @ BUF
 DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
- 5-2\, BUF 6-1
+ 6-2\, BUF 6-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -907,7 +906,7 @@ DTSTART:20261225T180000Z
 DTEND:20261225T213000Z
 SUMMARY:GB @ CHI
 DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
-  North)\nTV: Netflix\nRecords: GB 5-3\, CHI 5-2
+  North)\nTV: Netflix\nRecords: GB 5-3\, CHI 6-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +926,7 @@ DTSTART:20261226T011500Z
 DTEND:20261226T044500Z
 SUMMARY:LAR @ SEA
 DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nDivision game (N
- FC West)\nTV: Fox\nRecords: LAR 4-4\, SEA 4-3
+ FC West)\nTV: Fox\nRecords: LAR 4-4\, SEA 4-4
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
