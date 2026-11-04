@@ -706,7 +706,7 @@ DTSTART:20261106T011500Z
 DTEND:20261106T044500Z
 SUMMARY:JAX @ BAL
 DESCRIPTION:Jacksonville Jaguars at Baltimore Ravens\nWeek 9\nTV: Prime Vid
- eo\nLine: JAX -9.5\, O/U 41.5\nRecords: JAX 5-2\, BAL 4-4
+ eo\nLine: JAX -10\, O/U 39.5\nRecords: JAX 5-2\, BAL 4-4
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -716,7 +716,7 @@ DTSTART:20261109T012000Z
 DTEND:20261109T045000Z
 SUMMARY:TB @ CHI
 DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC\nLine: C
- HI -6\, O/U 46.5\nRecords: TB 3-5\, CHI 6-2
+ HI -6\, O/U 47.5\nRecords: TB 3-5\, CHI 6-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -736,7 +736,8 @@ DTSTART:20261113T011500Z
 DTEND:20261113T044500Z
 SUMMARY:WSH @ NYG
 DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nDivision gam
- e (NFC East)\nTV: Prime Video\nRecords: WSH 2-4-1\, NYG 4-2-1
+ e (NFC East)\nTV: Prime Video\nLine: NYG -1.5\, O/U 44.5\nRecords: WSH 2-4
+ -1\, NYG 4-2-1
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -746,7 +747,8 @@ DTSTART:20261116T012000Z
 DTEND:20261116T045000Z
 SUMMARY:PIT @ CIN
 DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nDivision ga
- me (AFC North)\nTV: NBC\nRecords: PIT 6-2\, CIN 5-2
+ me (AFC North)\nTV: NBC\nLine: CIN -3.5\, O/U 47.5\nRecords: PIT 6-2\, CIN
+  5-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -755,8 +757,8 @@ DTSTAMP:20261117T011500Z
 DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
 SUMMARY:LAC @ BAL
-DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nRe
- cords: LAC 0-7\, BAL 4-4
+DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nLi
+ ne: LAC -2.5\, O/U 37.5\nRecords: LAC 0-7\, BAL 4-4
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
