@@ -316,7 +316,7 @@ DTSTART:20261108T210500Z
 DTEND:20261109T003500Z
 SUMMARY:HOU @ LAC
 DESCRIPTION:Houston Texans at Los Angeles Chargers\nWeek 9\nTV: CBS\nLine: 
- HOU -4.5\, O/U 40.5\nRecords: HOU 2-5\, LAC 0-7
+ HOU -6\, O/U 40.5\nRecords: HOU 2-5\, LAC 0-7
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -346,7 +346,7 @@ DTSTART:20261129T180000Z
 DTEND:20261129T213000Z
 SUMMARY:BAL @ HOU
 DESCRIPTION:Baltimore Ravens at Houston Texans\nWeek 12\nTV: CBS\nRecords: 
- BAL 4-4\, HOU 2-5
+ BAL 4-5\, HOU 2-5
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -376,7 +376,7 @@ DTSTART:20261220T180000Z
 DTEND:20261220T213000Z
 SUMMARY:JAX @ HOU
 DESCRIPTION:Jacksonville Jaguars at Houston Texans\nWeek 15\nDivision game 
- (AFC South)\nTV: CBS\nRecords: JAX 5-2\, HOU 2-5
+ (AFC South)\nTV: CBS\nRecords: JAX 6-2\, HOU 2-5
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

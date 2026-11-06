@@ -704,9 +704,9 @@ UID:espn-401873037@nfl-calendars
 DTSTAMP:20261106T011500Z
 DTSTART:20261106T011500Z
 DTEND:20261106T044500Z
-SUMMARY:JAX @ BAL
+SUMMARY:JAX 33 @ BAL 10 (Final)
 DESCRIPTION:Jacksonville Jaguars at Baltimore Ravens\nWeek 9\nTV: Prime Vid
- eo\nLine: JAX -10\, O/U 39.5\nRecords: JAX 5-2\, BAL 4-4
+ eo
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -726,7 +726,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nLin
- e: BUF -3.5\, O/U 45.5\nRecords: BUF 6-1\, MIN 6-1
+ e: BUF -3\, O/U 44.5\nRecords: BUF 6-1\, MIN 6-1
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -758,7 +758,7 @@ DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
 SUMMARY:LAC @ BAL
 DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nLi
- ne: BAL -1.5\, O/U 38.5\nRecords: LAC 0-7\, BAL 4-4
+ ne: BAL -1.5\, O/U 37.5\nRecords: LAC 0-7\, BAL 4-5
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -858,7 +858,7 @@ DTSTART:20261215T011500Z
 DTEND:20261215T044500Z
 SUMMARY:PIT @ JAX
 DESCRIPTION:Pittsburgh Steelers at Jacksonville Jaguars\nWeek 14\nTV: ESPN\
- nRecords: PIT 6-2\, JAX 5-2
+ nRecords: PIT 6-2\, JAX 6-2
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -938,7 +938,7 @@ DTSTART:20261228T012000Z
 DTEND:20261228T045000Z
 SUMMARY:JAX @ DAL
 DESCRIPTION:Jacksonville Jaguars at Dallas Cowboys\nWeek 16\nTV: NBC\nRecor
- ds: JAX 5-2\, DAL 3-5
+ ds: JAX 6-2\, DAL 3-5
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -958,7 +958,7 @@ DTSTART:20270101T011500Z
 DTEND:20270101T044500Z
 SUMMARY:BAL @ CIN
 DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nDivision game 
- (AFC North)\nTV: Prime Video\nRecords: BAL 4-4\, CIN 5-2
+ (AFC North)\nTV: Prime Video\nRecords: BAL 4-5\, CIN 5-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
