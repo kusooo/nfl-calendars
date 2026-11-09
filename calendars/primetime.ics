@@ -725,7 +725,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nLin
- e: BUF -3\, O/U 44.5\nRecords: BUF 6-1\, MIN 6-1
+ e: BUF -3.5\, O/U 45.5\nRecords: BUF 6-1\, MIN 6-1
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -735,7 +735,7 @@ DTSTART:20261113T011500Z
 DTEND:20261113T044500Z
 SUMMARY:WSH @ NYG
 DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nDivision gam
- e (NFC East)\nTV: Prime Video\nLine: NYG -1.5\, O/U 43.5\nRecords: WSH 2-5
+ e (NFC East)\nTV: Prime Video\nLine: NYG -1.5\, O/U 42.5\nRecords: WSH 2-5
  -1\, NYG 5-2-1
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
@@ -746,7 +746,7 @@ DTSTART:20261116T012000Z
 DTEND:20261116T045000Z
 SUMMARY:PIT @ CIN
 DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nDivision ga
- me (AFC North)\nTV: NBC\nLine: CIN -3.5\, O/U 47.5\nRecords: PIT 6-2\, CIN
+ me (AFC North)\nTV: NBC\nLine: CIN -3.5\, O/U 48.5\nRecords: PIT 6-2\, CIN
   6-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
