@@ -714,9 +714,8 @@ UID:espn-401873050@nfl-calendars
 DTSTAMP:20261109T012000Z
 DTSTART:20261109T012000Z
 DTEND:20261109T045000Z
-SUMMARY:TB @ CHI
-DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC\nLine: C
- HI -6\, O/U 47.5\nRecords: TB 3-5\, CHI 6-2
+SUMMARY:TB 24 @ CHI 27 (Final)
+DESCRIPTION:Tampa Bay Buccaneers at Chicago Bears\nWeek 9\nTV: NBC
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -736,7 +735,7 @@ DTSTART:20261113T011500Z
 DTEND:20261113T044500Z
 SUMMARY:WSH @ NYG
 DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nDivision gam
- e (NFC East)\nTV: Prime Video\nLine: NYG -1.5\, O/U 42.5\nRecords: WSH 2-5
+ e (NFC East)\nTV: Prime Video\nLine: NYG -1.5\, O/U 43.5\nRecords: WSH 2-5
  -1\, NYG 5-2-1
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
@@ -747,7 +746,7 @@ DTSTART:20261116T012000Z
 DTEND:20261116T045000Z
 SUMMARY:PIT @ CIN
 DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nDivision ga
- me (AFC North)\nTV: NBC\nLine: CIN -3.5\, O/U 48.5\nRecords: PIT 6-2\, CIN
+ me (AFC North)\nTV: NBC\nLine: CIN -3.5\, O/U 47.5\nRecords: PIT 6-2\, CIN
   6-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
@@ -758,7 +757,7 @@ DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
 SUMMARY:LAC @ BAL
 DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nLi
- ne: BAL -3.5\, O/U 38.5\nRecords: LAC 0-8\, BAL 4-5
+ ne: BAL -4.5\, O/U 38.5\nRecords: LAC 0-8\, BAL 4-5
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -808,7 +807,7 @@ DTSTART:20261201T011500Z
 DTEND:20261201T044500Z
 SUMMARY:CAR @ TB
 DESCRIPTION:Carolina Panthers at Tampa Bay Buccaneers\nWeek 12\nDivision ga
- me (NFC South)\nTV: ESPN\nRecords: CAR 3-5\, TB 3-5
+ me (NFC South)\nTV: ESPN\nRecords: CAR 3-5\, TB 3-6
 LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -878,7 +877,7 @@ DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
 SUMMARY:CHI @ BUF
 DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
- 6-2\, BUF 6-1
+ 7-2\, BUF 6-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -908,7 +907,7 @@ DTSTART:20261225T180000Z
 DTEND:20261225T213000Z
 SUMMARY:GB @ CHI
 DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
-  North)\nTV: Netflix\nRecords: GB 6-3\, CHI 6-2
+  North)\nTV: Netflix\nRecords: GB 6-3\, CHI 7-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
