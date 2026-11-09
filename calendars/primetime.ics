@@ -725,7 +725,7 @@ DTSTART:20261110T011500Z
 DTEND:20261110T044500Z
 SUMMARY:BUF @ MIN
 DESCRIPTION:Buffalo Bills at Minnesota Vikings\nWeek 9\nTV: ESPN\, ABC\nLin
- e: BUF -3\, O/U 43.5\nRecords: BUF 6-1\, MIN 6-1
+ e: BUF -3\, O/U 44.5\nRecords: BUF 6-1\, MIN 6-1
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -757,7 +757,7 @@ DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
 SUMMARY:LAC @ BAL
 DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nLi
- ne: BAL -4.5\, O/U 38.5\nRecords: LAC 0-8\, BAL 4-5
+ ne: BAL -5.5\, O/U 38.5\nRecords: LAC 0-8\, BAL 4-5
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
