@@ -327,7 +327,7 @@ DTSTART:20261115T180000Z
 DTEND:20261115T213000Z
 SUMMARY:HOU @ CLE
 DESCRIPTION:Houston Texans at Cleveland Browns\nWeek 10\nTV: Fox\nLine: HOU
-  -4.5\, O/U 39.5\nRecords: HOU 3-5\, CLE 5-4
+  -4.5\, O/U 40.5\nRecords: HOU 3-5\, CLE 5-4
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -337,7 +337,8 @@ DTSTART:20261120T011500Z
 DTEND:20261120T044500Z
 SUMMARY:IND @ HOU
 DESCRIPTION:Indianapolis Colts at Houston Texans\nWeek 11\nDivision game (A
- FC South)\nTV: Prime Video\nRecords: IND 2-7\, HOU 3-5
+ FC South)\nTV: Prime Video\nLine: HOU -10\, O/U 44.5\nRecords: IND 2-7\, H
+ OU 3-5
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

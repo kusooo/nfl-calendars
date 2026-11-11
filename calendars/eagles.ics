@@ -329,7 +329,8 @@ DTSTART:20261122T180000Z
 DTEND:20261122T213000Z
 SUMMARY:PIT @ PHI
 DESCRIPTION:Pittsburgh Steelers at Philadelphia Eagles\nWeek 11\nRivalry: B
- attle of Pennsylvania\nTV: CBS\nRecords: PIT 6-2\, PHI 2-7
+ attle of Pennsylvania\nTV: CBS\nLine: PIT -4.5\, O/U 38.5\nRecords: PIT 6-
+ 2\, PHI 2-7
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
