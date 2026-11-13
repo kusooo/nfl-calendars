@@ -732,10 +732,9 @@ UID:espn-401873052@nfl-calendars
 DTSTAMP:20261113T011500Z
 DTSTART:20261113T011500Z
 DTEND:20261113T044500Z
-SUMMARY:WSH @ NYG
+SUMMARY:WSH 24 @ NYG 21 (Final)
 DESCRIPTION:Washington Commanders at New York Giants\nWeek 10\nDivision gam
- e (NFC East)\nTV: Prime Video\nLine: NYG -2.5\, O/U 40.5\nRecords: WSH 2-5
- -1\, NYG 5-2-1
+ e (NFC East)\nTV: Prime Video
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -766,7 +765,7 @@ DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
 SUMMARY:CIN @ WSH
 DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN\
- nLine: CIN -3.5\, O/U 51.5\nRecords: CIN 6-2\, WSH 2-5-1
+ nLine: CIN -3.5\, O/U 51.5\nRecords: CIN 6-2\, WSH 3-5-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -946,7 +945,7 @@ DTSTART:20261229T011500Z
 DTEND:20261229T044500Z
 SUMMARY:NYG @ DET
 DESCRIPTION:New York Giants at Detroit Lions\nWeek 16\nTV: ESPN\nRecords: N
- YG 5-2-1\, DET 6-2
+ YG 5-3-1\, DET 6-2
 LOCATION:Ford Field\, Detroit\, MI
 END:VEVENT
 BEGIN:VEVENT
