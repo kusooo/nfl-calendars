@@ -742,10 +742,9 @@ UID:espn-401873064@nfl-calendars
 DTSTAMP:20261116T012000Z
 DTSTART:20261116T012000Z
 DTEND:20261116T045000Z
-SUMMARY:PIT @ CIN
+SUMMARY:PIT 18 @ CIN 38 (Final)
 DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nDivision ga
- me (AFC North)\nTV: NBC\nLine: CIN -4.5\, O/U 48.5\nRecords: PIT 6-2\, CIN
-  6-2
+ me (AFC North)\nTV: NBC
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -765,7 +764,7 @@ DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
 SUMMARY:CIN @ WSH
 DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN\
- nLine: CIN -3.5\, O/U 51.5\nRecords: CIN 6-2\, WSH 3-5-1
+ nLine: CIN -4.5\, O/U 51.5\nRecords: CIN 7-2\, WSH 3-5-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +854,7 @@ DTSTART:20261215T011500Z
 DTEND:20261215T044500Z
 SUMMARY:PIT @ JAX
 DESCRIPTION:Pittsburgh Steelers at Jacksonville Jaguars\nWeek 14\nTV: ESPN\
- nRecords: PIT 6-2\, JAX 7-2
+ nRecords: PIT 6-3\, JAX 7-2
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -955,7 +954,7 @@ DTSTART:20270101T011500Z
 DTEND:20270101T044500Z
 SUMMARY:BAL @ CIN
 DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nDivision game 
- (AFC North)\nTV: Prime Video\nRecords: BAL 4-5\, CIN 6-2
+ (AFC North)\nTV: Prime Video\nRecords: BAL 4-5\, CIN 7-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
