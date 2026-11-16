@@ -744,7 +744,7 @@ DTSTART:20261116T012000Z
 DTEND:20261116T045000Z
 SUMMARY:PIT @ CIN
 DESCRIPTION:Pittsburgh Steelers at Cincinnati Bengals\nWeek 10\nDivision ga
- me (AFC North)\nTV: NBC\nLine: CIN -3.5\, O/U 49.5\nRecords: PIT 6-2\, CIN
+ me (AFC North)\nTV: NBC\nLine: CIN -4.5\, O/U 48.5\nRecords: PIT 6-2\, CIN
   6-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
@@ -775,7 +775,7 @@ DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
 DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nRe
- cords: GB 6-3\, LAR 5-4
+ cords: GB 6-4\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -785,7 +785,7 @@ DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
 SUMMARY:KC @ BUF
 DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
- ills rivalry\nTV: NBC\nRecords: KC 6-2\, BUF 7-1
+ ills rivalry\nTV: NBC\nRecords: KC 7-2\, BUF 8-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:NE @ LAC
 DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC\
- nRecords: NE 5-4\, LAC 0-8
+ nRecords: NE 5-5\, LAC 0-8
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -805,7 +805,7 @@ DTSTART:20261201T011500Z
 DTEND:20261201T044500Z
 SUMMARY:CAR @ TB
 DESCRIPTION:Carolina Panthers at Tampa Bay Buccaneers\nWeek 12\nDivision ga
- me (NFC South)\nTV: ESPN\nRecords: CAR 3-5\, TB 3-6
+ me (NFC South)\nTV: ESPN\nRecords: CAR 4-5\, TB 3-6
 LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -815,7 +815,7 @@ DTSTART:20261204T011500Z
 DTEND:20261204T044500Z
 SUMMARY:KC @ LAR
 DESCRIPTION:Kansas City Chiefs at Los Angeles Rams\nWeek 13\nTV: Prime Vide
- o\nRecords: KC 6-2\, LAR 5-4
+ o\nRecords: KC 7-2\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -825,7 +825,7 @@ DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
 SUMMARY:DAL @ SEA
 DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nRe
- cords: DAL 4-5\, SEA 5-4
+ cords: DAL 4-6\, SEA 6-4
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -835,7 +835,7 @@ DTSTART:20261211T011500Z
 DTEND:20261211T044500Z
 SUMMARY:MIN @ NE
 DESCRIPTION:Minnesota Vikings at New England Patriots\nWeek 14\nTV: Prime V
- ideo\nRecords: MIN 6-2\, NE 5-4
+ ideo\nRecords: MIN 7-2\, NE 5-5
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -845,7 +845,7 @@ DTSTART:20261214T012000Z
 DTEND:20261214T045000Z
 SUMMARY:BUF @ GB
 DESCRIPTION:Buffalo Bills at Green Bay Packers\nWeek 14\nTV: NBC\nRecords: 
- BUF 7-1\, GB 6-3
+ BUF 8-1\, GB 6-4
 LOCATION:Lambeau Field\, Green Bay\, WI
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DTSTART:20261215T011500Z
 DTEND:20261215T044500Z
 SUMMARY:PIT @ JAX
 DESCRIPTION:Pittsburgh Steelers at Jacksonville Jaguars\nWeek 14\nTV: ESPN\
- nRecords: PIT 6-2\, JAX 6-2
+ nRecords: PIT 6-2\, JAX 7-2
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -865,7 +865,7 @@ DTSTART:20261218T011500Z
 DTEND:20261218T044500Z
 SUMMARY:SF @ LAC
 DESCRIPTION:San Francisco 49ers at Los Angeles Chargers\nWeek 15\nTV: Prime
-  Video\nRecords: SF 7-1\, LAC 0-8
+  Video\nRecords: SF 8-1\, LAC 0-8
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -875,7 +875,7 @@ DTSTART:20261220T012000Z
 DTEND:20261220T045000Z
 SUMMARY:CHI @ BUF
 DESCRIPTION:Chicago Bears at Buffalo Bills\nWeek 15\nTV: CBS\nRecords: CHI 
- 7-2\, BUF 7-1
+ 7-2\, BUF 8-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -885,7 +885,7 @@ DTSTART:20261221T012000Z
 DTEND:20261221T045000Z
 SUMMARY:DET @ MIN
 DESCRIPTION:Detroit Lions at Minnesota Vikings\nWeek 15\nDivision game (NFC
-  North)\nTV: NBC\nRecords: DET 6-2\, MIN 6-2
+  North)\nTV: NBC\nRecords: DET 7-2\, MIN 7-2
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -895,7 +895,7 @@ DTSTART:20261222T011500Z
 DTEND:20261222T044500Z
 SUMMARY:NE @ KC
 DESCRIPTION:New England Patriots at Kansas City Chiefs\nWeek 15\nTV: ESPN\,
-  ABC\nRecords: NE 5-4\, KC 6-2
+  ABC\nRecords: NE 5-5\, KC 7-2
 LOCATION:Arrowhead Stadium\, Kansas City\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -905,7 +905,7 @@ DTSTART:20261225T180000Z
 DTEND:20261225T213000Z
 SUMMARY:GB @ CHI
 DESCRIPTION:Green Bay Packers at Chicago Bears\nWeek 16\nDivision game (NFC
-  North)\nTV: Netflix\nRecords: GB 6-3\, CHI 7-2
+  North)\nTV: Netflix\nRecords: GB 6-4\, CHI 7-2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DTSTART:20261225T213000Z
 DTEND:20261226T010000Z
 SUMMARY:BUF @ DEN
 DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix\nRecords:
-  BUF 7-1\, DEN 7-2
+  BUF 8-1\, DEN 7-2
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -925,7 +925,7 @@ DTSTART:20261226T011500Z
 DTEND:20261226T044500Z
 SUMMARY:LAR @ SEA
 DESCRIPTION:Los Angeles Rams at Seattle Seahawks\nWeek 16\nDivision game (N
- FC West)\nTV: Fox\nRecords: LAR 5-4\, SEA 5-4
+ FC West)\nTV: Fox\nRecords: LAR 6-4\, SEA 6-4
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -935,7 +935,7 @@ DTSTART:20261228T012000Z
 DTEND:20261228T045000Z
 SUMMARY:JAX @ DAL
 DESCRIPTION:Jacksonville Jaguars at Dallas Cowboys\nWeek 16\nTV: NBC\nRecor
- ds: JAX 6-2\, DAL 4-5
+ ds: JAX 7-2\, DAL 4-6
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -945,7 +945,7 @@ DTSTART:20261229T011500Z
 DTEND:20261229T044500Z
 SUMMARY:NYG @ DET
 DESCRIPTION:New York Giants at Detroit Lions\nWeek 16\nTV: ESPN\nRecords: N
- YG 5-3-1\, DET 6-2
+ YG 5-3-1\, DET 7-2
 LOCATION:Ford Field\, Detroit\, MI
 END:VEVENT
 BEGIN:VEVENT
