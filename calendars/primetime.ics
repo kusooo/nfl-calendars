@@ -752,9 +752,8 @@ UID:espn-401873065@nfl-calendars
 DTSTAMP:20261117T011500Z
 DTSTART:20261117T011500Z
 DTEND:20261117T044500Z
-SUMMARY:LAC @ BAL
-DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN\nLi
- ne: BAL -4.5\, O/U 39.5\nRecords: LAC 0-8\, BAL 4-5
+SUMMARY:LAC 23 @ BAL 20 (Final)
+DESCRIPTION:Los Angeles Chargers at Baltimore Ravens\nWeek 10\nTV: ESPN
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -794,7 +793,7 @@ DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:NE @ LAC
 DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC\
- nRecords: NE 5-5\, LAC 0-8
+ nRecords: NE 5-5\, LAC 1-8
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -864,7 +863,7 @@ DTSTART:20261218T011500Z
 DTEND:20261218T044500Z
 SUMMARY:SF @ LAC
 DESCRIPTION:San Francisco 49ers at Los Angeles Chargers\nWeek 15\nTV: Prime
-  Video\nRecords: SF 8-1\, LAC 0-8
+  Video\nRecords: SF 8-1\, LAC 1-8
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -954,7 +953,7 @@ DTSTART:20270101T011500Z
 DTEND:20270101T044500Z
 SUMMARY:BAL @ CIN
 DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nDivision game 
- (AFC North)\nTV: Prime Video\nRecords: BAL 4-5\, CIN 7-2
+ (AFC North)\nTV: Prime Video\nRecords: BAL 4-6\, CIN 7-2
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
