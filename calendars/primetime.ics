@@ -787,14 +787,14 @@ DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401873093@nfl-calendars
+UID:espn-401873086@nfl-calendars
 DTSTAMP:20261130T012000Z
 DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
-SUMMARY:NE @ LAC
-DESCRIPTION:New England Patriots at Los Angeles Chargers\nWeek 12\nTV: NBC\
- nRecords: NE 5-5\, LAC 1-8
-LOCATION:SoFi Stadium\, Inglewood\, CA
+SUMMARY:LV @ CLE
+DESCRIPTION:Las Vegas Raiders at Cleveland Browns\nWeek 12\nTV: NBC\nRecord
+ s: LV 4-6\, CLE 6-4
+LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401873094@nfl-calendars
