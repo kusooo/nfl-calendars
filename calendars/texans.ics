@@ -348,8 +348,8 @@ DTSTAMP:20261129T180000Z
 DTSTART:20261129T180000Z
 DTEND:20261129T213000Z
 SUMMARY:BAL @ HOU
-DESCRIPTION:Baltimore Ravens at Houston Texans\nWeek 12\nTV: CBS\nRecords: 
- BAL 4-6\, HOU 3-6
+DESCRIPTION:Baltimore Ravens at Houston Texans\nWeek 12\nTV: CBS\nLine: HOU
+  -6\, O/U 44.5\nRecords: BAL 4-6\, HOU 3-6
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
