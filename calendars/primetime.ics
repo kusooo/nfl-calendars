@@ -763,7 +763,7 @@ DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
 SUMMARY:CIN @ WSH
 DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN\
- nLine: CIN -6\, O/U 53.5\nRecords: CIN 7-2\, WSH 3-5-1
+ nLine: CIN -6\, O/U 54.5\nRecords: CIN 7-2\, WSH 3-5-1
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -772,8 +772,8 @@ DTSTAMP:20261126T010000Z
 DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
-DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nLi
- ne: LAR -3\, O/U 45.5\nRecords: GB 6-4\, LAR 6-4
+DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nRe
+ cords: GB 6-4\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -792,8 +792,8 @@ DTSTAMP:20261130T012000Z
 DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:LV @ CLE
-DESCRIPTION:Las Vegas Raiders at Cleveland Browns\nWeek 12\nTV: NBC\nLine: 
- CLE -4.5\, O/U 40.5\nRecords: LV 4-6\, CLE 6-4
+DESCRIPTION:Las Vegas Raiders at Cleveland Browns\nWeek 12\nTV: NBC\nRecord
+ s: LV 4-6\, CLE 6-4
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -803,8 +803,7 @@ DTSTART:20261201T011500Z
 DTEND:20261201T044500Z
 SUMMARY:CAR @ TB
 DESCRIPTION:Carolina Panthers at Tampa Bay Buccaneers\nWeek 12\nDivision ga
- me (NFC South)\nTV: ESPN\nLine: TB -2.5\, O/U 43.5\nRecords: CAR 4-5\, TB 
- 3-6
+ me (NFC South)\nTV: ESPN\nRecords: CAR 4-5\, TB 3-6
 LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT

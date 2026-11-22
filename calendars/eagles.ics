@@ -329,8 +329,7 @@ DTSTART:20261122T180000Z
 DTEND:20261122T213000Z
 SUMMARY:PIT @ PHI
 DESCRIPTION:Pittsburgh Steelers at Philadelphia Eagles\nWeek 11\nRivalry: B
- attle of Pennsylvania\nTV: CBS\nLine: PIT -3.5\, O/U 37.5\nRecords: PIT 6-
- 3\, PHI 2-7
+ attle of Pennsylvania\nTV: CBS\nRecords: PIT 6-3\, PHI 2-7
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -340,7 +339,7 @@ DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
 SUMMARY:PHI @ DAL
 DESCRIPTION:Philadelphia Eagles at Dallas Cowboys\nWeek 12\nDivision game (
- NFC East)\nTV: Fox\nLine: DAL -8.5\, O/U 47.5\nRecords: PHI 2-7\, DAL 4-6
+ NFC East)\nTV: Fox\nRecords: PHI 2-7\, DAL 4-6
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
