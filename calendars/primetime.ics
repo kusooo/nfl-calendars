@@ -783,8 +783,7 @@ DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
 SUMMARY:KC @ BUF
 DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
- ills rivalry\nTV: NBC\nLine: BUF -2.5\, O/U 50.5\nRecords: KC 8-2\, BUF 9-
- 1
+ ills rivalry\nTV: NBC\nLine: BUF -3\, O/U 50.5\nRecords: KC 8-2\, BUF 9-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -804,8 +803,8 @@ DTSTART:20261201T011500Z
 DTEND:20261201T044500Z
 SUMMARY:CAR @ TB
 DESCRIPTION:Carolina Panthers at Tampa Bay Buccaneers\nWeek 12\nDivision ga
- me (NFC South)\nTV: ESPN\nLine: TB -2.5\, O/U 43.5\nRecords: CAR 5-5\, TB 
- 3-7
+ me (NFC South)\nTV: ESPN\nLine: TB -3\, O/U 43.5\nRecords: CAR 5-5\, TB 3-
+ 7
 LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -835,7 +834,7 @@ DTSTART:20261211T011500Z
 DTEND:20261211T044500Z
 SUMMARY:MIN @ NE
 DESCRIPTION:Minnesota Vikings at New England Patriots\nWeek 14\nTV: Prime V
- ideo\nRecords: MIN 7-2\, NE 5-5
+ ideo\nRecords: MIN 7-3\, NE 5-5
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -865,7 +864,7 @@ DTSTART:20261218T011500Z
 DTEND:20261218T044500Z
 SUMMARY:SF @ LAC
 DESCRIPTION:San Francisco 49ers at Los Angeles Chargers\nWeek 15\nTV: Prime
-  Video\nRecords: SF 8-1\, LAC 1-9
+  Video\nRecords: SF 9-1\, LAC 1-9
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -885,7 +884,7 @@ DTSTART:20261221T012000Z
 DTEND:20261221T045000Z
 SUMMARY:DET @ MIN
 DESCRIPTION:Detroit Lions at Minnesota Vikings\nWeek 15\nDivision game (NFC
-  North)\nTV: NBC\nRecords: DET 8-2\, MIN 7-2
+  North)\nTV: NBC\nRecords: DET 8-2\, MIN 7-3
 LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
