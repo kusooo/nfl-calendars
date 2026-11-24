@@ -761,9 +761,8 @@ UID:espn-401873078@nfl-calendars
 DTSTAMP:20261124T011500Z
 DTSTART:20261124T011500Z
 DTEND:20261124T044500Z
-SUMMARY:CIN @ WSH
-DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN\
- nLine: CIN -6\, O/U 54.5\nRecords: CIN 7-2\, WSH 3-5-1
+SUMMARY:CIN 20 @ WSH 22 (Final)
+DESCRIPTION:Cincinnati Bengals at Washington Commanders\nWeek 11\nTV: ESPN
 LOCATION:Northwest Stadium\, Landover\, MD
 END:VEVENT
 BEGIN:VEVENT
@@ -773,7 +772,7 @@ DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
 DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nLi
- ne: LAR -2.5\, O/U 44.5\nRecords: GB 6-4\, LAR 6-4
+ ne: LAR -2.5\, O/U 43.5\nRecords: GB 6-4\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +782,7 @@ DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
 SUMMARY:KC @ BUF
 DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
- ills rivalry\nTV: NBC\nLine: BUF -3\, O/U 49.5\nRecords: KC 8-2\, BUF 9-1
+ ills rivalry\nTV: NBC\nLine: BUF -3\, O/U 47.5\nRecords: KC 8-2\, BUF 9-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -954,7 +953,7 @@ DTSTART:20270101T011500Z
 DTEND:20270101T044500Z
 SUMMARY:BAL @ CIN
 DESCRIPTION:Baltimore Ravens at Cincinnati Bengals\nWeek 17\nDivision game 
- (AFC North)\nTV: Prime Video\nRecords: BAL 4-7\, CIN 7-2
+ (AFC North)\nTV: Prime Video\nRecords: BAL 4-7\, CIN 7-3
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
