@@ -772,7 +772,7 @@ DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
 DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nLi
- ne: LAR -2.5\, O/U 43.5\nRecords: GB 6-4\, LAR 6-4
+ ne: LAR -2.5\, O/U 44.5\nRecords: GB 6-4\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -813,7 +813,7 @@ DTSTART:20261204T011500Z
 DTEND:20261204T044500Z
 SUMMARY:KC @ LAR
 DESCRIPTION:Kansas City Chiefs at Los Angeles Rams\nWeek 13\nTV: Prime Vide
- o\nRecords: KC 8-2\, LAR 6-4
+ o\nLine: LAR -1.5\, O/U 46.5\nRecords: KC 8-2\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -822,8 +822,8 @@ DTSTAMP:20261208T011500Z
 DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
 SUMMARY:DAL @ SEA
-DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nRe
- cords: DAL 5-6\, SEA 6-4
+DESCRIPTION:Dallas Cowboys at Seattle Seahawks\nWeek 13\nTV: ESPN\, ABC\nLi
+ ne: SEA -6\, O/U 50.5\nRecords: DAL 5-6\, SEA 6-4
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

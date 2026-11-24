@@ -349,7 +349,7 @@ DTSTART:20261129T180000Z
 DTEND:20261129T213000Z
 SUMMARY:BAL @ HOU
 DESCRIPTION:Baltimore Ravens at Houston Texans\nWeek 12\nTV: CBS\nLine: HOU
-  -6.5\, O/U 46.5\nRecords: BAL 4-7\, HOU 4-6
+  -6.5\, O/U 47.5\nRecords: BAL 4-7\, HOU 4-6
 LOCATION:Reliant Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -358,8 +358,8 @@ DTSTAMP:20261207T012000Z
 DTSTART:20261207T012000Z
 DTEND:20261207T045000Z
 SUMMARY:HOU @ PIT
-DESCRIPTION:Houston Texans at Pittsburgh Steelers\nWeek 13\nTV: NBC\nRecord
- s: HOU 4-6\, PIT 6-4
+DESCRIPTION:Houston Texans at Pittsburgh Steelers\nWeek 13\nTV: NBC\nLine: 
+ HOU -3\, O/U 42.5\nRecords: HOU 4-6\, PIT 6-4
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
