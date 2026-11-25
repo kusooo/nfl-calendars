@@ -772,7 +772,7 @@ DTSTART:20261126T010000Z
 DTEND:20261126T043000Z
 SUMMARY:GB @ LAR
 DESCRIPTION:Green Bay Packers at Los Angeles Rams\nWeek 12\nTV: Netflix\nLi
- ne: LAR -2.5\, O/U 44.5\nRecords: GB 6-4\, LAR 6-4
+ ne: LAR -2.5\, O/U 43.5\nRecords: GB 6-4\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -782,7 +782,7 @@ DTSTART:20261127T012000Z
 DTEND:20261127T045000Z
 SUMMARY:KC @ BUF
 DESCRIPTION:Kansas City Chiefs at Buffalo Bills\nWeek 12\nRivalry: Chiefs-B
- ills rivalry\nTV: NBC\nLine: BUF -3\, O/U 47.5\nRecords: KC 8-2\, BUF 9-1
+ ills rivalry\nTV: NBC\nLine: BUF -3\, O/U 46.5\nRecords: KC 8-2\, BUF 9-1
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -792,7 +792,7 @@ DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:LV @ CLE
 DESCRIPTION:Las Vegas Raiders at Cleveland Browns\nWeek 12\nTV: NBC\nLine: 
- CLE -4.5\, O/U 41.5\nRecords: LV 4-7\, CLE 6-4
+ CLE -4.5\, O/U 39.5\nRecords: LV 4-7\, CLE 6-4
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -813,7 +813,7 @@ DTSTART:20261204T011500Z
 DTEND:20261204T044500Z
 SUMMARY:KC @ LAR
 DESCRIPTION:Kansas City Chiefs at Los Angeles Rams\nWeek 13\nTV: Prime Vide
- o\nLine: LAR -1.5\, O/U 46.5\nRecords: KC 8-2\, LAR 6-4
+ o\nLine: LAR -1.5\, O/U 45.5\nRecords: KC 8-2\, LAR 6-4
 LOCATION:SoFi Stadium\, Inglewood\, CA
 END:VEVENT
 BEGIN:VEVENT
