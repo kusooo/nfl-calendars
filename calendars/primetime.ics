@@ -791,7 +791,7 @@ DTSTART:20261130T012000Z
 DTEND:20261130T045000Z
 SUMMARY:LV @ CLE
 DESCRIPTION:Las Vegas Raiders at Cleveland Browns\nWeek 12\nTV: NBC\nLine: 
- CLE -4.5\, O/U 39.5\nRecords: LV 4-7\, CLE 6-4
+ CLE -4.5\, O/U 38.5\nRecords: LV 4-7\, CLE 6-4
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -852,7 +852,7 @@ DTSTART:20261215T011500Z
 DTEND:20261215T044500Z
 SUMMARY:PIT @ JAX
 DESCRIPTION:Pittsburgh Steelers at Jacksonville Jaguars\nWeek 14\nTV: ESPN\
- nRecords: PIT 6-4\, JAX 7-3
+ nRecords: PIT 7-4\, JAX 7-3
 LOCATION:EverBank Stadium\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -912,7 +912,7 @@ DTSTART:20261225T213000Z
 DTEND:20261226T010000Z
 SUMMARY:BUF @ DEN
 DESCRIPTION:Buffalo Bills at Denver Broncos\nWeek 16\nTV: Netflix\nRecords:
-  BUF 10-1\, DEN 8-2
+  BUF 10-1\, DEN 8-3
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
